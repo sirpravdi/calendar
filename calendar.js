@@ -12,12 +12,11 @@ var myArr;
     xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             myArr = JSON.parse(this.responseText);
+            console.log(myArr);
         }
     };
     xmlhttp.open("GET", url, true);
     xmlhttp.send();
-
-    console.log(myArr);
 })();
 
 function createMonthItem(item, main) {
