@@ -35,7 +35,7 @@ function fillMonthList(item, months){
 function getSchedule () {
 
     const xmlhttp = new XMLHttpRequest(),
-    const url = "schedule.json";
+          url = "schedule.json";
     let schedule = {};
 
     xmlhttp.onreadystatechange = function () {
