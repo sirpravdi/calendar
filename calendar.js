@@ -22,6 +22,8 @@ function createList(schedule) {
 
     months.forEach(item => createMonthItem(item, main));
 
+    console.log(typeof(schedule));
+
     schedule.forEach(item => createList(item, months));
 
 };
