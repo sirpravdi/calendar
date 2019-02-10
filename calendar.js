@@ -1,9 +1,9 @@
-var sync = require('synchronize');
+
 
 !(function createList() {
     const main = document.querySelector('main'),
           months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
-          schedule = sync.await(getSchedule());
+          schedule = getSchedule();
 
     months.forEach(item => createMonthItem(item, main));
 
@@ -32,7 +32,7 @@ function fillMonthList(item, months){
 
 };
 
-function getSchedule () {
+function getSchedule() {
 
     const xmlhttp = new XMLHttpRequest(),
           url = "schedule.json";
@@ -41,7 +41,6 @@ function getSchedule () {
     xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             let schedule = JSON.parse(this.responseText);
-            console.log(123);
             return schedule;
         }
     };
