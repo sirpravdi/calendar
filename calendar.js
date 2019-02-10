@@ -2,7 +2,7 @@
 !(function initPageAndSchedule() {
 
     const xmlhttp = new XMLHttpRequest(),
-          url = "schedule.json";
+          url = "https://sirpravdi.github.io/calendar/schedule.json";
     let schedule = {};
 
     xmlhttp.onreadystatechange = function () {
@@ -49,14 +49,26 @@ function fillMonthList(conf, months){
         name = conf.name,
         url = conf.url,
         month = confDate.split('-')[1],
-        motnthInArray = parseInt(month) - 1;
+        motnthInArray = parseInt(month) - 1,
+        section = document.querySelector('#' + months[motnthInArray]),
+        list = section.querySelector('ul'),
+        item = document.createElement('li'),
+        itemName = document.createElement('h3'),
+        link = document.createElement('a'),
+        destination = document.createElement('p');
 
-        list = document.querySelector('#' + months[motnthInArray]);
+        itemName.textContent = name;
 
-        console.log(list);
+        link.href = url;
+        link.textContent = url;
+
+        destination.textContent = country + ', ' + city;
+
+        item.append(itemName);
+        item.append(link);
+        item.append(destination);
         
-
-
+        list.append(item);
 
 };
 
