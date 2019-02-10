@@ -51,7 +51,7 @@ function fillMonthList(conf, months){
         month = confDate.split('-')[1],
         motnthInArray = parseInt(month) - 1;
 
-        list = document.querySelector('#' + month[motnthInArray]);
+        list = document.querySelector('#' + months[motnthInArray]);
 
         console.log(list);
         
