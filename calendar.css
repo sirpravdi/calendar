@@ -4,12 +4,16 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+h1 {
+    margin-left: 10px;
+}
+
 ul {
     list-style-type: none;
 }
 
 section {
-    margin: 15px 10px;
+    margin: 15px 20px;
 }
 
 section ul {
