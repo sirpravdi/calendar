@@ -16,7 +16,6 @@
     xmlhttp.send();
 
     console.log(myArr);
-
 })();
 
 function createMonthItem(item, main) {
