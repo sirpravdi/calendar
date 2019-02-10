@@ -1,22 +1,14 @@
-var myArr;
+
 
 !(function createList() {
     const main = document.querySelector('main'),
-        months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+          months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+          schedule = getSchedule();
 
     months.forEach(item => createMonthItem(item, main));
 
-    var xmlhttp = new XMLHttpRequest();
-    var url = "schedule.json";
+    console.log(schedule);
 
-    xmlhttp.onreadystatechange = function () {
-        if (this.readyState == 4 && this.status == 200) {
-            myArr = JSON.parse(this.responseText);
-            console.log(myArr);
-        }
-    };
-    xmlhttp.open("GET", url, true);
-    xmlhttp.send();
 })();
 
 function createMonthItem(item, main) {
@@ -31,6 +23,25 @@ function createMonthItem(item, main) {
     section.append(list);
 
     main.append(section);
+};
+
+function fillMonthList (){
+
+};
+
+function getSchedule () {
+
+    var xmlhttp = new XMLHttpRequest();
+    var url = "schedule.json";
+
+    xmlhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+            schedule = JSON.parse(this.responseText);
+        }
+    };
+    xmlhttp.open("GET", url, true);
+    xmlhttp.send();
+
 };
 
 
