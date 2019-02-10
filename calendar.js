@@ -46,7 +46,6 @@ function getSchedule () {
     };
     xmlhttp.open("GET", url, true);
     xmlhttp.send();
-
 };
 
 
