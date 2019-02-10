@@ -26,6 +26,11 @@ function createList(schedule) {
         fillMonthList(schedule[k], months);
     }
 
+    document.addEventListener('click', function (event) {
+        if (event.target.tagName == 'BUTTON') {
+            notify(event.target);
+        }
+    });
 };
 
 function createMonthItem(item, main) {
@@ -55,7 +60,10 @@ function fillMonthList(conf, months){
         item = document.createElement('li'),
         itemName = document.createElement('h3'),
         link = document.createElement('a'),
-        destination = document.createElement('p');
+        destination = document.createElement('p'),
+        reminder1 = document.createElement('button'),
+        reminder2 = document.createElement('button'),
+        reminder3 = document.createElement('button');
 
         itemName.textContent = name;
 
@@ -64,13 +72,58 @@ function fillMonthList(conf, months){
 
         destination.textContent = country + ', ' + city;
 
+        
+        reminder1.textContent = 'Remind me three days before';
+        reminder1.setAttribute('data-period', '3');
+        reminder1.setAttribute('data-date', confDate);
+        reminder1.setAttribute('data-name', name);
+
+        reminder2.textContent = 'Remind me a week before';
+        reminder2.setAttribute('data-period', '7');
+        reminder2.setAttribute('data-date', confDate);
+        reminder2.setAttribute('data-name', name);
+
+        reminder3.textContent = 'Remind me two weeks before';
+        reminder3.setAttribute('data-period', '14');
+        reminder3.setAttribute('data-date', confDate);
+        reminder3.setAttribute('data-name', name);
+
         item.append(itemName);
         item.append(link);
         item.append(destination);
+        item.append(reminder1);
+        item.append(reminder2);
+        item.append(reminder3);
         
         list.append(item);
 
 };
 
+function notify (info) {
 
+    if (Notification && Notification.permission === 'default') {
+        Notification.requestPermission(function (permission) {
+           if (!('permission' in Notification)) {
+             Notification.permission = permission;
+           }
+        });
+      }
+
+    console.log(info);
+    console.log(info.dataset.date);
+    console.log(info.dataset.period);
+
+    let dateParts = info.dataset.date.split('-');
+    let date = new Date(dateParts[0], dateParts[1] - 1, dateParts[2]);
+
+    date.setDate(date.getDate() + parseInt(info.dataset.period));
+
+    var dts = Math.floor(date);
+
+    var options = {
+        body: 'Dont forget about ' + info.dataset.name + ' conference in ' + info.dataset.period + ' days'
+    }
+
+    let n = new Notification('Reminder', options);
+};
 

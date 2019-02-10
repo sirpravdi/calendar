@@ -23,3 +23,14 @@ section ul {
 section li {
     margin: 5px 0;
 }
+
+button {
+    display: block;
+    margin-top: 5px;
+    width: 200px;
+    border-radius: 5px;
+    background: cornflowerblue;
+    border-color: cornflowerblue;
+    border: 2px solid cornflowerblue;
+    color: #fff;
+}
