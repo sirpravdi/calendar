@@ -1,4 +1,20 @@
 
+!(function initPageAndSchedule() {
+
+    const xmlhttp = new XMLHttpRequest(),
+          url = "schedule.json";
+    let schedule = {};
+
+    xmlhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+            let schedule = JSON.parse(this.responseText);
+            createList(schedule);
+        }
+    };
+
+    xmlhttp.open("GET", url, true);
+    xmlhttp.send();
+})();
 
 function createList(schedule) {
     const main = document.querySelector('main'),
@@ -8,7 +24,7 @@ function createList(schedule) {
 
     console.log(schedule);
 
-    //console.log(Object.values(schedule));
+    console.log(Object.values(schedule));
 
 };
 
@@ -31,21 +47,5 @@ function fillMonthList(item, months){
 
 };
 
-!(function initPageAndSchedule() {
-
-    const xmlhttp = new XMLHttpRequest(),
-          url = "schedule.json";
-    let schedule = {};
-
-    xmlhttp.onreadystatechange = function () {
-        if (this.readyState == 4 && this.status == 200) {
-            let schedule = JSON.parse(this.responseText);
-            createList(schedule);
-        }
-    };
-
-    xmlhttp.open("GET", url, true);
-    xmlhttp.send();
-})();
 
 
