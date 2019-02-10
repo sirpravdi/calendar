@@ -1,4 +1,4 @@
-
+var sync = require('synchronize');
 
 !(function createList() {
     const main = document.querySelector('main'),
