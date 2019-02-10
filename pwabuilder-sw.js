@@ -8,8 +8,8 @@ self.addEventListener('install', function(event) {
 var preLoad = function(){
   console.log('[PWA Builder] Install Event processing');
   return caches.open('pwabuilder-offline').then(function(cache) {
-    console.log('[PWA Builder] Cached index page during Install');
-    return cache.addAll(['/calendar']);
+    console.log('[PWA Builder] Cached index and offline page during Install');
+    return cache.addAll(['/offline.html', '/calendar', '/calendar.js', '/calendar.css']);
   });
 }
 
