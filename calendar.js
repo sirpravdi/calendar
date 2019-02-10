@@ -1,3 +1,5 @@
+var myArr;
+
 !(function createList() {
     const main = document.querySelector('main'),
         months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
@@ -6,7 +8,6 @@
 
     var xmlhttp = new XMLHttpRequest();
     var url = "schedule.json";
-    var myArr;
 
     xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
