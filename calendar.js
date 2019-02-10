@@ -9,7 +9,7 @@
 
     console.log(schedule);
 
-    schedule.forEach(item => fillMonthList(item, months));
+    console.log(Object.values(schedule));
 
 })();
 
@@ -41,12 +41,11 @@ function getSchedule () {
     xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             let schedule = JSON.parse(this.responseText);
+            return schedule;
         }
     };
     xmlhttp.open("GET", url, true);
     xmlhttp.send();
-
-    return schedule;
 
 };
 
