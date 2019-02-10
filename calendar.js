@@ -9,7 +9,7 @@
 
     console.log(schedule);
 
-    console.log(Object.values(schedule));
+    //console.log(Object.values(schedule));
 
 })();
 
@@ -41,6 +41,7 @@ function getSchedule() {
     xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             let schedule = JSON.parse(this.responseText);
+            console.log(123);
             return 123;
         }
     };
