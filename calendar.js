@@ -6,10 +6,11 @@
 
     var xmlhttp = new XMLHttpRequest();
     var url = "schedule.json";
+    var myArr;
 
     xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
-            var myArr = JSON.parse(this.responseText);
+            myArr = JSON.parse(this.responseText);
         }
     };
     xmlhttp.open("GET", url, true);
