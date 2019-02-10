@@ -118,6 +118,7 @@ function notify (info) {
 
     var options = {
         body: 'Dont forget about ' + info.dataset.name + ' conference in ' + info.dataset.period + ' days',
+        data: date,
         timestamp: dts
     }
 
