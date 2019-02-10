@@ -21,10 +21,12 @@ function createList(schedule) {
           months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 
     months.forEach(item => createMonthItem(item, main));
-
-    console.log(typeof(schedule));
-
-    schedule.forEach(item => createList(item, months));
+    
+    console.log(schedule);
+    
+    for(var k in schedule) {
+        console.log(schedule[k]);
+     }
 
 };
 
