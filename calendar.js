@@ -21,12 +21,10 @@ function createList(schedule) {
           months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 
     months.forEach(item => createMonthItem(item, main));
-    
-    console.log(schedule);
-    
-    for(var k in schedule) {
-        console.log(schedule[k]);
-     }
+
+    for (var k in schedule) {
+        fillMonthList(schedule[k], months);
+    }
 
 };
 
@@ -44,8 +42,15 @@ function createMonthItem(item, main) {
     main.append(section);
 };
 
-function fillMonthList(item, months){
-    console.log(item);
+function fillMonthList(conf, months){
+    let confDate = conf.startDate,
+        country = conf.country,
+        city = conf.city,
+        name = conf.name,
+        url = conf.url,
+        month = confDate.split('-')[1];
+
+        console.log(month);
 
 };
 
