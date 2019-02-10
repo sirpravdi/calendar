@@ -3,7 +3,7 @@
 !(function createList() {
     const main = document.querySelector('main'),
           months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
-          schedule = getSchedule();
+          schedule = sync.await(getSchedule());
 
     months.forEach(item => createMonthItem(item, main));
 
