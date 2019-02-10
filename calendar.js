@@ -9,6 +9,8 @@
 
     console.log(schedule);
 
+    schedule.forEach(item => fillMonthList(item, months));
+
 })();
 
 function createMonthItem(item, main) {
@@ -25,22 +27,25 @@ function createMonthItem(item, main) {
     main.append(section);
 };
 
-function fillMonthList (){
+function fillMonthList(item, months){
+    console.log(item);
 
 };
 
 function getSchedule () {
 
-    var xmlhttp = new XMLHttpRequest();
-    var url = "schedule.json";
+    const xmlhttp = new XMLHttpRequest();
+    const url = "schedule.json";
 
     xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
-            schedule = JSON.parse(this.responseText);
+            let schedule = JSON.parse(this.responseText);
         }
     };
     xmlhttp.open("GET", url, true);
     xmlhttp.send();
+
+    return schedule;
 
 };
 
