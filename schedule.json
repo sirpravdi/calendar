@@ -1,0 +1,4477 @@
+[
+  {
+    "hasDiscount": false,
+    "uuid": "0nwYtzo4UTxn4VkvAdtX5ZmnEj0=",
+    "cfpStartDateUnix": 0,
+    "id": 6764,
+    "country": "Netherlands",
+    "tweeted_at": "2018-10-24T00:02:21.646Z",
+    "cfpStartDate": null,
+    "longitude": 4.89797550561798,
+    "startDate": "2019-02-13",
+    "objectID": "0nwYtzo4UTxn4VkvAdtX5ZmnEj0=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Frontend Developer Love",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-02-13",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-10-24T00:02:21.640Z",
+    "endDate": "2019-02-15",
+    "latitude": 52.3745403,
+    "name": "Frontend Developer Love",
+    "updated_at": "2018-12-15T19:51:18.276Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "http://www.frontenddeveloperlove.com/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1550059200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 52.3745403,
+      "lng": 4.89797550561798
+    },
+    "endDateUnix": 1550232000,
+    "affiliateText": null,
+    "twitter_followers": 4039,
+    "twitter": "@frontend_love",
+    "city": "Amsterdam"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "oFgT0HpPLuvFYHaDwv1RN6ILJfM=",
+    "cfpStartDateUnix": 0,
+    "id": 4111,
+    "country": "Netherlands",
+    "tweeted_at": "2018-07-23T20:33:35.553Z",
+    "cfpStartDate": null,
+    "longitude": 4.89797550561798,
+    "startDate": "2019-02-14",
+    "objectID": "oFgT0HpPLuvFYHaDwv1RN6ILJfM=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Vue.js Amsterdam",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-02-14",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-05-15T22:05:07.534Z",
+    "endDate": "2019-02-15",
+    "latitude": 52.3745403,
+    "name": "Vue.js Amsterdam",
+    "updated_at": "2018-12-15T19:50:42.945Z",
+    "cfpEndDate": null,
+    "cfpUrl": "",
+    "url": "https://www.vuejs.amsterdam",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1550145600,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 52.3745403,
+      "lng": 4.89797550561798
+    },
+    "endDateUnix": 1550232000,
+    "affiliateText": null,
+    "twitter_followers": 4198,
+    "twitter": "@vuejsamsterdam",
+    "city": "Amsterdam"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "+M/nvOMDBXSCHw264/BzudFp1HE=",
+    "cfpStartDateUnix": 0,
+    "id": 5539,
+    "country": "Austria",
+    "tweeted_at": "2018-10-05T12:03:12.764Z",
+    "cfpStartDate": null,
+    "longitude": 9.7423875,
+    "startDate": "2019-02-21",
+    "objectID": "+M/nvOMDBXSCHw264/BzudFp1HE=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Agent Conf",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-02-21",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-10-05T12:03:12.734Z",
+    "endDate": "2019-02-24",
+    "latitude": 47.413631,
+    "name": "Agent Conf",
+    "updated_at": "2018-12-15T22:01:30.055Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://www.agent.sh",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1550750400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 47.413631,
+      "lng": 9.7423875
+    },
+    "endDateUnix": 1551009600,
+    "affiliateText": null,
+    "twitter_followers": 817,
+    "twitter": "@AgentConf",
+    "city": "Dornbirn & Lech"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "WnlwZCXjReVt7rf6G7rWwGvrV1Y=",
+    "cfpStartDateUnix": 0,
+    "id": 7953,
+    "country": "India",
+    "tweeted_at": "2018-11-27T17:01:35.334Z",
+    "cfpStartDate": null,
+    "longitude": 77.0299194,
+    "startDate": "2019-02-23",
+    "objectID": "WnlwZCXjReVt7rf6G7rWwGvrV1Y=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "ng-India",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-02-23",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-27T17:01:35.311Z",
+    "endDate": "2019-02-23",
+    "latitude": 28.4646148,
+    "name": "ng-India",
+    "updated_at": "2018-12-15T22:00:32.177Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://www.ng-ind.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1550923200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 28.4646148,
+      "lng": 77.0299194
+    },
+    "endDateUnix": 1550923200,
+    "affiliateText": null,
+    "twitter_followers": null,
+    "twitter": null,
+    "city": "Gurgaon"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "WA9KDNdwdJhoGm8jWeNY6vOs7QI=",
+    "cfpStartDateUnix": 0,
+    "id": 8015,
+    "country": "India",
+    "tweeted_at": "2018-12-15T23:09:58.860Z",
+    "cfpStartDate": null,
+    "longitude": 77.0299194,
+    "startDate": "2019-02-23",
+    "objectID": "WA9KDNdwdJhoGm8jWeNY6vOs7QI=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "ng-India",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-02-23",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-12-15T23:09:58.833Z",
+    "endDate": "2019-02-23",
+    "latitude": 28.4646148,
+    "name": "ng-India",
+    "updated_at": "2018-12-15T23:09:59.257Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://www.ng-ind.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1550923200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 28.4646148,
+      "lng": 77.0299194
+    },
+    "endDateUnix": 1550923200,
+    "affiliateText": null,
+    "twitter_followers": null,
+    "twitter": null,
+    "city": "Gurgaon"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "0YXDSemVfsAIF0z687EnobAw8yg=",
+    "cfpStartDateUnix": 0,
+    "id": 4276,
+    "country": "India",
+    "tweeted_at": "2018-07-26T20:00:53.415Z",
+    "cfpStartDate": null,
+    "longitude": 77.5912997,
+    "startDate": "2019-03-01",
+    "objectID": "0YXDSemVfsAIF0z687EnobAw8yg=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "ReactFoo",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-03-01",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-07-26T20:00:53.409Z",
+    "endDate": "2019-03-02",
+    "latitude": 12.9791198,
+    "name": "ReactFoo",
+    "updated_at": "2018-12-15T19:51:18.759Z",
+    "cfpEndDate": "2018-10-15",
+    "cfpUrl": "https://reactfoo.talkfunnel.com/2019/",
+    "url": "https://reactfoo.in/2019",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1539604800,
+    "emails": null,
+    "startDateUnix": 1551441600,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 12.9791198,
+      "lng": 77.5912997
+    },
+    "endDateUnix": 1551528000,
+    "affiliateText": null,
+    "twitter_followers": 609,
+    "twitter": "@ReactFoo",
+    "city": "Bengaluru"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "4dDHG02wmfmJw29y/LjmJrC8Usk=",
+    "cfpStartDateUnix": 0,
+    "id": 4941,
+    "country": "Germany",
+    "tweeted_at": "2018-09-18T02:03:35.519Z",
+    "cfpStartDate": null,
+    "longitude": 11.5753822,
+    "startDate": "2019-03-11",
+    "objectID": "4dDHG02wmfmJw29y/LjmJrC8Usk=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "JS Kongress",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-03-11",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-09-18T02:03:35.501Z",
+    "endDate": "2019-03-12",
+    "latitude": 48.1371079,
+    "name": "JS Kongress",
+    "updated_at": "2018-12-15T19:51:19.832Z",
+    "cfpEndDate": "2018-10-14",
+    "cfpUrl": "https://medium.com/@jskongress/we-want-you-for-the-r-evolution-of-architectures-b7a7d40cddd5",
+    "url": "https://js-kongress.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1539518400,
+    "emails": null,
+    "startDateUnix": 1552305600,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 48.1371079,
+      "lng": 11.5753822
+    },
+    "endDateUnix": 1552392000,
+    "affiliateText": null,
+    "twitter_followers": 1989,
+    "twitter": "@JSKongress",
+    "city": "Munich"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "l6obTWZyXkpigDZlum/a1ENiDOA=",
+    "cfpStartDateUnix": 0,
+    "id": 6120,
+    "country": "U.S.A.",
+    "tweeted_at": "2018-10-16T01:03:19.049Z",
+    "cfpStartDate": null,
+    "longitude": -99.0277414,
+    "startDate": "2019-03-18",
+    "objectID": "l6obTWZyXkpigDZlum/a1ENiDOA=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "EmberConf",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-03-18",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-10-16T01:03:19.036Z",
+    "endDate": "2019-03-20",
+    "latitude": 19.5584043,
+    "name": "EmberConf",
+    "updated_at": "2018-12-15T19:51:06.333Z",
+    "cfpEndDate": "2018-11-18",
+    "cfpUrl": "https://emberconf.com/become-a-speaker.html",
+    "url": "https://emberconf.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1542542400,
+    "emails": null,
+    "startDateUnix": 1552910400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 19.5584043,
+      "lng": -99.0277414
+    },
+    "endDateUnix": 1553083200,
+    "affiliateText": null,
+    "twitter_followers": 2803,
+    "twitter": "@EmberConf",
+    "city": "Portland"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "3NNMe0MCo0zTUbXuffs1fUPzfqQ=",
+    "cfpStartDateUnix": 0,
+    "id": 4198,
+    "country": "U.S.A.",
+    "tweeted_at": null,
+    "cfpStartDate": null,
+    "longitude": -99.0277414,
+    "startDate": "2019-03-18",
+    "objectID": "3NNMe0MCo0zTUbXuffs1fUPzfqQ=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "EmberConf",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-03-18",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-07-03T13:04:44.592Z",
+    "endDate": "2019-03-20",
+    "latitude": 19.5584043,
+    "name": "EmberConf",
+    "updated_at": "2018-12-15T19:50:56.996Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "http://emberconf.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1552910400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 19.5584043,
+      "lng": -99.0277414
+    },
+    "endDateUnix": 1553083200,
+    "affiliateText": null,
+    "twitter_followers": 2822,
+    "twitter": "@EmberConf",
+    "city": "Portland, OR"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "gtyiwhlme7kZN8ayighSn3h3CAs=",
+    "cfpStartDateUnix": 0,
+    "id": 7956,
+    "country": "U.K.",
+    "tweeted_at": "2018-11-27T21:02:26.862Z",
+    "cfpStartDate": null,
+    "longitude": -2.2451148,
+    "startDate": "2019-03-22",
+    "objectID": "gtyiwhlme7kZN8ayighSn3h3CAs=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        },
+        {
+          "value": "ux",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "UpFront",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-03-22",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-27T21:02:26.847Z",
+    "endDate": "2019-03-22",
+    "latitude": 53.4794892,
+    "twitter": "@upfrontconf",
+    "updated_at": "2019-02-10T13:10:48.386Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://upfrontconf.com",
+    "topics": [
+      "javascript",
+      "ux"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1553256000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 53.4794892,
+      "lng": -2.2451148
+    },
+    "endDateUnix": 1553256000,
+    "affiliateText": null,
+    "twitter_followers": 1857,
+    "name": "UpFront",
+    "city": "Manchester"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "vF3mnv9idsTUIl037Mh16wYUAhI=",
+    "cfpStartDateUnix": 0,
+    "id": 6718,
+    "country": "U.S.A.",
+    "tweeted_at": "2018-10-23T12:49:09.238Z",
+    "cfpStartDate": null,
+    "longitude": -82.458444,
+    "startDate": "2019-03-25",
+    "objectID": "vF3mnv9idsTUIl037Mh16wYUAhI=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "VueConf US",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-03-25",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-10-23T12:49:09.224Z",
+    "endDate": "2019-03-27",
+    "latitude": 27.9477595,
+    "name": "VueConf US",
+    "updated_at": "2018-12-15T21:42:59.049Z",
+    "cfpEndDate": "2018-11-01",
+    "cfpUrl": "http://us.vuejs.org/call-for-papers/",
+    "url": "http://us.vuejs.org",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1541073600,
+    "emails": null,
+    "startDateUnix": 1553515200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 27.9477595,
+      "lng": -82.458444
+    },
+    "endDateUnix": 1553688000,
+    "affiliateText": null,
+    "twitter_followers": null,
+    "twitter": "@VueConf.US",
+    "city": "Tampa, FL"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "kiPu6jrblTNce02sE8i53hDTVRM=",
+    "cfpStartDateUnix": 0,
+    "id": 8472,
+    "country": "Portugal",
+    "tweeted_at": null,
+    "cfpStartDate": null,
+    "longitude": -8.6107884,
+    "startDate": "2019-03-27",
+    "objectID": "kiPu6jrblTNce02sE8i53hDTVRM=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Typeof Conference",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-03-27",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-02-01T10:08:10.902Z",
+    "endDate": "2019-03-29",
+    "latitude": 41.1494512,
+    "name": "Typeof Conference",
+    "updated_at": "2019-02-01T10:08:11.684Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://typeofconf.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1553688000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 41.1494512,
+      "lng": -8.6107884
+    },
+    "endDateUnix": 1553860800,
+    "affiliateText": null,
+    "twitter_followers": 60,
+    "twitter": "@typeofconf",
+    "city": "Porto"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "qiFfe6CvxTvHqJjHyHY7A0XdlQA=",
+    "cfpStartDateUnix": 0,
+    "id": 8077,
+    "country": "U.S.A.",
+    "tweeted_at": "2018-12-31T11:11:35.017Z",
+    "cfpStartDate": null,
+    "longitude": -122.4192363,
+    "startDate": "2019-03-30",
+    "objectID": "qiFfe6CvxTvHqJjHyHY7A0XdlQA=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Reactathon",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-03-30",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-12-31T11:11:34.997Z",
+    "endDate": "2019-03-31",
+    "latitude": 37.7792808,
+    "name": "Reactathon",
+    "updated_at": "2018-12-31T11:11:36.430Z",
+    "cfpEndDate": "2019-01-15",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf3gtpQkYb2SNNI2WxBTC2rFYpFUn6cyMA9k8HZVZrwg0gYVw/viewform?usp=sf_link",
+    "url": "https://www.reactathon.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1547553600,
+    "emails": null,
+    "startDateUnix": 1553947200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 37.7792808,
+      "lng": -122.4192363
+    },
+    "endDateUnix": 1554033600,
+    "affiliateText": null,
+    "twitter_followers": 632,
+    "twitter": "@reactathon",
+    "city": "San Francisco, CA"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "fuwbdvraQKrSByKglD7PyxsCqSI=",
+    "cfpStartDateUnix": 0,
+    "id": 8363,
+    "country": "U.S.A.",
+    "tweeted_at": null,
+    "cfpStartDate": null,
+    "longitude": -87.6244212,
+    "startDate": "2019-04-01",
+    "objectID": "fuwbdvraQKrSByKglD7PyxsCqSI=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "FrontEnd Fest",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-01",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-01-14T23:08:38.050Z",
+    "endDate": "2019-04-03",
+    "latitude": 41.8755616,
+    "name": "FrontEnd Fest",
+    "updated_at": "2019-01-14T23:08:38.050Z",
+    "cfpEndDate": null,
+    "cfpUrl": "https://frontendfest.io/home/speaker_request",
+    "url": "https://frontendfest.io/conference/chicago/2019/04/home",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1554120000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 41.8755616,
+      "lng": -87.6244212
+    },
+    "endDateUnix": 1554292800,
+    "affiliateText": null,
+    "twitter_followers": null,
+    "twitter": null,
+    "city": "Chicago, IL"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "ZVrdpjovdxZWU/VQc3U6wQmmE8A=",
+    "cfpStartDateUnix": 0,
+    "id": 6719,
+    "country": "U.S.A.",
+    "tweeted_at": "2018-10-23T12:49:09.864Z",
+    "cfpStartDate": null,
+    "longitude": -122.2325233,
+    "startDate": "2019-04-02",
+    "objectID": "ZVrdpjovdxZWU/VQc3U6wQmmE8A=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "#PerfMatters",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-02",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-10-23T12:49:09.858Z",
+    "endDate": "2019-04-03",
+    "latitude": 37.4863239,
+    "name": "#PerfMatters",
+    "updated_at": "2018-12-15T21:43:00.580Z",
+    "cfpEndDate": "2018-11-15",
+    "cfpUrl": "https://perfmattersconf.com/speak/",
+    "url": "https://perfmattersconf.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1542283200,
+    "emails": null,
+    "startDateUnix": 1554206400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 37.4863239,
+      "lng": -122.2325233
+    },
+    "endDateUnix": 1554292800,
+    "affiliateText": null,
+    "twitter_followers": 490,
+    "twitter": "@perfmattersconf",
+    "city": "Redwood City, CA"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "sQIF7kZgvW3al4ux1UstubMMKiE=",
+    "cfpStartDateUnix": 0,
+    "id": 7883,
+    "country": "Latvia",
+    "tweeted_at": "2018-11-09T15:23:39.656Z",
+    "cfpStartDate": null,
+    "longitude": 24.1051846,
+    "startDate": "2019-04-03",
+    "objectID": "sQIF7kZgvW3al4ux1UstubMMKiE=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "FrontCon",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-03",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T15:23:39.652Z",
+    "endDate": "2019-04-05",
+    "latitude": 56.9493977,
+    "name": "FrontCon",
+    "updated_at": "2018-12-15T19:51:02.052Z",
+    "cfpEndDate": "2019-12-09",
+    "cfpUrl": "https://www.papercall.io/fc19",
+    "url": "https://frontcon.lv",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1575892800,
+    "emails": null,
+    "startDateUnix": 1554292800,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 56.9493977,
+      "lng": 24.1051846
+    },
+    "endDateUnix": 1554465600,
+    "affiliateText": null,
+    "twitter_followers": 83,
+    "twitter": "@frontcon",
+    "city": "Riga"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "o7HM31ZMUlKysm0hJTIkL89JiA4=",
+    "cfpStartDateUnix": 0,
+    "id": 7882,
+    "country": "U.K.",
+    "tweeted_at": "2018-11-09T15:23:38.737Z",
+    "cfpStartDate": null,
+    "longitude": -1.6142059,
+    "startDate": "2019-04-03",
+    "objectID": "o7HM31ZMUlKysm0hJTIkL89JiA4=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        },
+        {
+          "value": "general",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Frontend NE",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-03",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T15:23:38.731Z",
+    "endDate": "2019-04-03",
+    "latitude": 54.9770924,
+    "name": "Frontend NE",
+    "updated_at": "2018-12-15T19:51:02.578Z",
+    "cfpEndDate": null,
+    "cfpUrl": "https://2019.frontendne.co.uk/call-for-speakers.html",
+    "url": "https://2019.frontendne.co.uk",
+    "topics": [
+      "javascript",
+      "general"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1554292800,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 54.9770924,
+      "lng": -1.6142059
+    },
+    "endDateUnix": 1554292800,
+    "affiliateText": null,
+    "twitter_followers": 1185,
+    "twitter": "@frontendne",
+    "city": "Newcastle"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "jozbeMy27azRTySzTml+xZmOm3I=",
+    "cfpStartDateUnix": 0,
+    "id": 8095,
+    "country": "Israel",
+    "tweeted_at": "2019-01-01T17:08:46.568Z",
+    "cfpStartDate": null,
+    "longitude": null,
+    "startDate": "2019-04-03",
+    "objectID": "jozbeMy27azRTySzTml+xZmOm3I=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "YGLF Code Camp Israel",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-03",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-01-01T17:08:46.547Z",
+    "endDate": "2019-04-04",
+    "latitude": null,
+    "name": "YGLF Code Camp Israel",
+    "updated_at": "2019-01-01T17:08:47.900Z",
+    "cfpEndDate": "2019-01-31",
+    "cfpUrl": "https://www.israel.yglfconf.com/callforpapers",
+    "url": "https://www.israel.yglfconf.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1548936000,
+    "emails": null,
+    "startDateUnix": 1554292800,
+    "affiliateUrl": null,
+    "_geoloc": {},
+    "endDateUnix": 1554379200,
+    "affiliateText": null,
+    "twitter_followers": 681,
+    "twitter": "@YGLF_IL",
+    "city": "Nasholim"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "RrF30+xeSb7rMWPGKqiJInYTQs0=",
+    "cfpStartDateUnix": 0,
+    "id": 7935,
+    "country": "Poland",
+    "tweeted_at": "2018-11-22T21:01:39.276Z",
+    "cfpStartDate": null,
+    "longitude": 19.9368564,
+    "startDate": "2019-04-04",
+    "objectID": "RrF30+xeSb7rMWPGKqiJInYTQs0=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "App.js Conf",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-04",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-22T21:01:39.270Z",
+    "endDate": "2019-04-05",
+    "latitude": 50.0619474,
+    "name": "App.js Conf",
+    "updated_at": "2018-12-15T19:51:46.981Z",
+    "cfpEndDate": "2019-02-14",
+    "cfpUrl": "https://goo.gl/forms/Pn9LFBDuAGvWJyZf1",
+    "url": "https://appjs.co/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1550145600,
+    "emails": null,
+    "startDateUnix": 1554379200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 50.0619474,
+      "lng": 19.9368564
+    },
+    "endDateUnix": 1554465600,
+    "affiliateText": null,
+    "twitter_followers": 155,
+    "twitter": "@appjsconf",
+    "city": "Krakow"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "MCaJTX/AGZSDFtR0vkBzcwDBA8U=",
+    "cfpStartDateUnix": 0,
+    "id": 7884,
+    "country": "Ukraine",
+    "tweeted_at": "2018-11-09T15:23:40.520Z",
+    "cfpStartDate": null,
+    "longitude": 30.5240501,
+    "startDate": "2019-04-05",
+    "objectID": "MCaJTX/AGZSDFtR0vkBzcwDBA8U=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "JS Fest",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-05",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T15:23:40.515Z",
+    "endDate": "2019-04-06",
+    "latitude": 50.4501071,
+    "name": "JS Fest",
+    "updated_at": "2018-12-15T19:51:04.738Z",
+    "cfpEndDate": "2019-02-23",
+    "cfpUrl": "http://jsfest.com.ua/speakers_eng.html",
+    "url": "http://jsfest.com.ua/indexe.html",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1550923200,
+    "emails": null,
+    "startDateUnix": 1554465600,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 50.4501071,
+      "lng": 30.5240501
+    },
+    "endDateUnix": 1554552000,
+    "affiliateText": null,
+    "twitter_followers": 52,
+    "twitter": "@jsfestua",
+    "city": "Kyiv"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "ciabzE5AUWOivepThVJWheSyVLw=",
+    "cfpStartDateUnix": 0,
+    "id": 7885,
+    "country": "Canada",
+    "tweeted_at": "2018-11-09T15:23:41.510Z",
+    "cfpStartDate": null,
+    "longitude": -75.690308,
+    "startDate": "2019-04-09",
+    "objectID": "ciabzE5AUWOivepThVJWheSyVLw=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "ForwardJS Ottawa",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-09",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T15:23:41.505Z",
+    "endDate": "2019-04-12",
+    "latitude": 45.421106,
+    "name": "ForwardJS Ottawa",
+    "updated_at": "2018-12-15T19:50:59.617Z",
+    "cfpEndDate": null,
+    "cfpUrl": "https://bit.ly/2Pv0nBu",
+    "url": "https://forwardjs.com/ottawa",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1554811200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 45.421106,
+      "lng": -75.690308
+    },
+    "endDateUnix": 1555070400,
+    "affiliateText": null,
+    "twitter_followers": 9687,
+    "twitter": "@forwardJS",
+    "city": "Ottawa"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "n6z76ud8bM2nsBwHNYlAq0I1Wuo=",
+    "cfpStartDateUnix": 0,
+    "id": 8264,
+    "country": "Germany",
+    "tweeted_at": "2019-01-09T13:21:54.849Z",
+    "cfpStartDate": null,
+    "longitude": 8.4034195,
+    "startDate": "2019-04-10",
+    "objectID": "n6z76ud8bM2nsBwHNYlAq0I1Wuo=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Sencha Community Days",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-10",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-01-09T13:21:54.833Z",
+    "endDate": "2019-04-11",
+    "latitude": 49.0068705,
+    "name": "Sencha Community Days",
+    "updated_at": "2019-01-09T13:21:55.262Z",
+    "cfpEndDate": "2019-02-28",
+    "cfpUrl": "https://sencha-community-days.de/cfp/",
+    "url": "https://sencha-community-days.de/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1551355200,
+    "emails": null,
+    "startDateUnix": 1554897600,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 49.0068705,
+      "lng": 8.4034195
+    },
+    "endDateUnix": 1554984000,
+    "affiliateText": null,
+    "twitter_followers": null,
+    "twitter": null,
+    "city": "Karlsruhe"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "j/WTLUyeg/qhEffiGAONuAm+ZRE=",
+    "cfpStartDateUnix": 0,
+    "id": 8070,
+    "country": "Netherlands",
+    "tweeted_at": "2018-12-21T14:10:09.665Z",
+    "cfpStartDate": null,
+    "longitude": 4.89797550561798,
+    "startDate": "2019-04-11",
+    "objectID": "j/WTLUyeg/qhEffiGAONuAm+ZRE=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "NativeScript Developer Day",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-11",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-12-21T14:10:09.651Z",
+    "endDate": "2019-04-12",
+    "latitude": 52.3745403,
+    "name": "NativeScript Developer Day",
+    "updated_at": "2018-12-21T14:10:11.018Z",
+    "cfpEndDate": "2019-02-01",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf4EP8H5WPY8hHyui7w8EbxzJQeFLkCyevsUO1gvEWHLKirUg/viewform?usp=sf_link",
+    "url": "https://nativescriptdevday.org",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1549022400,
+    "emails": null,
+    "startDateUnix": 1554984000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 52.3745403,
+      "lng": 4.89797550561798
+    },
+    "endDateUnix": 1555070400,
+    "affiliateText": null,
+    "twitter_followers": 70528,
+    "twitter": "@nativescript",
+    "city": "Amsterdam"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "PSQhj25geIk3AkmZ9LWp8N4+C7U=",
+    "cfpStartDateUnix": 0,
+    "id": 7887,
+    "country": "Austria",
+    "tweeted_at": "2018-11-09T15:23:43.218Z",
+    "cfpStartDate": null,
+    "longitude": 16.3725042,
+    "startDate": "2019-04-11",
+    "objectID": "PSQhj25geIk3AkmZ9LWp8N4+C7U=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "ReasonConf",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-11",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T15:23:43.213Z",
+    "endDate": "2019-04-13",
+    "latitude": 48.2083537,
+    "name": "ReasonConf",
+    "updated_at": "2018-12-15T19:51:00.821Z",
+    "cfpEndDate": "2019-01-31",
+    "cfpUrl": "https://www.reason-conf.com/cfp/",
+    "url": "https://www.reason-conf.com/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1548936000,
+    "emails": null,
+    "startDateUnix": 1554984000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 48.2083537,
+      "lng": 16.3725042
+    },
+    "endDateUnix": 1555156800,
+    "affiliateText": null,
+    "twitter_followers": 855,
+    "twitter": "@reasonconf",
+    "city": "Vienna"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "/OX3gqrgbpyrdWUPY3n13mOb1S0=",
+    "cfpStartDateUnix": 0,
+    "id": 7886,
+    "country": "Romania",
+    "tweeted_at": "2018-11-09T15:23:42.329Z",
+    "cfpStartDate": null,
+    "longitude": 23.5900604,
+    "startDate": "2019-04-11",
+    "objectID": "/OX3gqrgbpyrdWUPY3n13mOb1S0=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "JSHeroes",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-11",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T15:23:42.325Z",
+    "endDate": "2019-04-12",
+    "latitude": 46.7693367,
+    "name": "JSHeroes",
+    "updated_at": "2018-12-15T19:51:05.289Z",
+    "cfpEndDate": "2018-12-01",
+    "cfpUrl": "https://jsheroes-form.typeform.com/to/IHohur",
+    "url": "https://jsheroes.io",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1543665600,
+    "emails": null,
+    "startDateUnix": 1554984000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 46.7693367,
+      "lng": 23.5900604
+    },
+    "endDateUnix": 1555070400,
+    "affiliateText": null,
+    "twitter_followers": 1614,
+    "twitter": "@jsheroes",
+    "city": "Cluj-Napoca"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "Cosi8JvxN0ZDFR7+EmXU/kndP7c=",
+    "cfpStartDateUnix": 0,
+    "id": 7888,
+    "country": "Netherlands",
+    "tweeted_at": "2018-11-09T15:23:43.911Z",
+    "cfpStartDate": null,
+    "longitude": 4.89797550561798,
+    "startDate": "2019-04-12",
+    "objectID": "Cosi8JvxN0ZDFR7+EmXU/kndP7c=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "React Amsterdam",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-12",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T15:23:43.906Z",
+    "endDate": "2019-04-12",
+    "latitude": 52.3745403,
+    "name": "React Amsterdam",
+    "updated_at": "2018-12-15T19:51:03.120Z",
+    "cfpEndDate": "2019-01-15",
+    "cfpUrl": "https://goo.gl/forms/WZsgwz8WGvrlPyvH2",
+    "url": "https://react.amsterdam",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1547553600,
+    "emails": null,
+    "startDateUnix": 1555070400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 52.3745403,
+      "lng": 4.89797550561798
+    },
+    "endDateUnix": 1555070400,
+    "affiliateText": null,
+    "twitter_followers": 3553,
+    "twitter": "@reactamsterdam",
+    "city": "Amsterdam"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "VU8pfCiQP8iOuhloTSsLcw7ZrRc=",
+    "cfpStartDateUnix": 0,
+    "id": 8265,
+    "country": "U.S.A.",
+    "tweeted_at": "2019-01-09T13:21:58.501Z",
+    "cfpStartDate": null,
+    "longitude": -122.4192363,
+    "startDate": "2019-04-16",
+    "objectID": "VU8pfCiQP8iOuhloTSsLcw7ZrRc=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        },
+        {
+          "value": "css",
+          "matchedWords": [],
+          "matchLevel": "none"
+        },
+        {
+          "value": "ux",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Smashing Conference",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-16",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-01-09T13:21:58.493Z",
+    "endDate": "2019-04-17",
+    "latitude": 37.7792808,
+    "name": "Smashing Conference",
+    "updated_at": "2019-01-09T13:21:59.857Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://smashingconf.com/sf-2019/",
+    "topics": [
+      "javascript",
+      "css",
+      "ux"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1555416000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 37.7792808,
+      "lng": -122.4192363
+    },
+    "endDateUnix": 1555502400,
+    "affiliateText": null,
+    "twitter_followers": 8785,
+    "twitter": "@smashingconf",
+    "city": "San Francisco, CA"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "A5xrCuRsqd4BNJaniwS1oKBcTv4=",
+    "cfpStartDateUnix": 0,
+    "id": 7957,
+    "country": "Finland",
+    "tweeted_at": "2018-11-27T21:02:27.990Z",
+    "cfpStartDate": null,
+    "longitude": 24.9425683,
+    "startDate": "2019-04-24",
+    "objectID": "A5xrCuRsqd4BNJaniwS1oKBcTv4=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "React Finland",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-24",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-27T21:02:27.983Z",
+    "endDate": "2019-04-26",
+    "latitude": 60.1674086,
+    "name": "React Finland",
+    "updated_at": "2018-12-15T19:51:39.352Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://react-finland.fi",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1556107200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 60.1674086,
+      "lng": 24.9425683
+    },
+    "endDateUnix": 1556280000,
+    "affiliateText": null,
+    "twitter_followers": 530,
+    "twitter": "@ReactFinland",
+    "city": "Helsinki"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "namOKHlOQia0C/5e7P+eVm5J8Ug=",
+    "cfpStartDateUnix": 0,
+    "id": 8266,
+    "country": "U.S.A.",
+    "tweeted_at": "2019-01-09T13:22:01.458Z",
+    "cfpStartDate": null,
+    "longitude": -87.6244212,
+    "startDate": "2019-04-26",
+    "objectID": "namOKHlOQia0C/5e7P+eVm5J8Ug=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Elm in the Spring",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-26",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-01-09T13:22:01.449Z",
+    "endDate": "2019-04-26",
+    "latitude": 41.8755616,
+    "name": "Elm in the Spring",
+    "updated_at": "2019-01-09T13:22:02.929Z",
+    "cfpEndDate": "2019-01-31",
+    "cfpUrl": "https://www.papercall.io/elm-in-the-spring-2019",
+    "url": "https://www.elminthespring.org",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1548936000,
+    "emails": null,
+    "startDateUnix": 1556280000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 41.8755616,
+      "lng": -87.6244212
+    },
+    "endDateUnix": 1556280000,
+    "affiliateText": null,
+    "twitter_followers": 132,
+    "twitter": "@ElmInTheSpring",
+    "city": "Chicago"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "4s+duQLsxlA9Sftzh5OOSrMYEhw=",
+    "cfpStartDateUnix": 0,
+    "id": 7986,
+    "country": "Germany",
+    "tweeted_at": "2018-12-07T16:01:38.412Z",
+    "cfpStartDate": null,
+    "longitude": 11.5753822,
+    "startDate": "2019-04-27",
+    "objectID": "4s+duQLsxlA9Sftzh5OOSrMYEhw=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "FrontConf - Munich Frontend Conference",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-04-27",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-12-07T16:01:38.391Z",
+    "endDate": "2019-04-27",
+    "latitude": 48.1371079,
+    "name": "FrontConf - Munich Frontend Conference",
+    "updated_at": "2018-12-15T19:52:08.925Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://frontconf.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1556366400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 48.1371079,
+      "lng": 11.5753822
+    },
+    "endDateUnix": 1556366400,
+    "affiliateText": null,
+    "twitter_followers": 170,
+    "twitter": "@FrontMuc",
+    "city": "Munich"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "zz5vbjBU0lLKzPY5UU3VolfedRs=",
+    "cfpStartDateUnix": 0,
+    "id": 7889,
+    "country": "U.S.A.",
+    "tweeted_at": "2018-11-09T15:23:44.824Z",
+    "cfpStartDate": null,
+    "longitude": -111.8904308,
+    "startDate": "2019-05-01",
+    "objectID": "zz5vbjBU0lLKzPY5UU3VolfedRs=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "ng-conf",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-01",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T15:23:44.820Z",
+    "endDate": "2019-05-03",
+    "latitude": 40.7670126,
+    "name": "ng-conf",
+    "updated_at": "2018-12-15T21:43:04.914Z",
+    "cfpEndDate": "2019-01-03",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfYLqvSIckyuhWyIl2NAYWQnSEOz2pXt6VRF1hF9MlBmP7aXw/viewform",
+    "url": "https://www.ng-conf.org",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1546516800,
+    "emails": null,
+    "startDateUnix": 1556712000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 40.7670126,
+      "lng": -111.8904308
+    },
+    "endDateUnix": 1556884800,
+    "affiliateText": null,
+    "twitter_followers": 19576,
+    "twitter": "@ngconf",
+    "city": "Salt Lake City, UT"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "lHu7fqYp2Vr7LwRl7a88hrd0ZK0=",
+    "cfpStartDateUnix": 0,
+    "id": 7944,
+    "country": "Switzerland",
+    "tweeted_at": "2018-11-24T00:03:49.398Z",
+    "cfpStartDate": null,
+    "longitude": 7.4514512,
+    "startDate": "2019-05-02",
+    "objectID": "lHu7fqYp2Vr7LwRl7a88hrd0ZK0=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Uphill Conf",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-02",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-24T00:03:49.389Z",
+    "endDate": "2019-05-03",
+    "latitude": 46.9482713,
+    "name": "Uphill Conf",
+    "updated_at": "2018-12-15T19:52:00.434Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://uphillconf.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1556798400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 46.9482713,
+      "lng": 7.4514512
+    },
+    "endDateUnix": 1556884800,
+    "affiliateText": null,
+    "twitter_followers": 516,
+    "twitter": "@uphillconf",
+    "city": "Bern"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "hGz3iFfJHA9hXKhJHVwthzstIAM=",
+    "cfpStartDateUnix": 0,
+    "id": 7890,
+    "country": "Switzerland",
+    "tweeted_at": "2018-11-09T15:23:45.633Z",
+    "cfpStartDate": null,
+    "longitude": 7.4514512,
+    "startDate": "2019-05-02",
+    "objectID": "hGz3iFfJHA9hXKhJHVwthzstIAM=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Uphill Conf",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-02",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T15:23:45.625Z",
+    "endDate": "2019-05-03",
+    "latitude": 46.9482713,
+    "name": "Uphill Conf",
+    "updated_at": "2018-12-15T19:51:06.848Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://uphillconf.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1556798400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 46.9482713,
+      "lng": 7.4514512
+    },
+    "endDateUnix": 1556884800,
+    "affiliateText": null,
+    "twitter_followers": 516,
+    "twitter": "@uphillconf",
+    "city": "Berne"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "qz9cwGFEMaWsTGEv1KWhMOUl44w=",
+    "cfpStartDateUnix": 0,
+    "id": 8022,
+    "country": "U.K.",
+    "tweeted_at": "2018-12-19T13:12:07.259Z",
+    "cfpStartDate": null,
+    "longitude": -0.1276474,
+    "startDate": "2019-05-03",
+    "objectID": "qz9cwGFEMaWsTGEv1KWhMOUl44w=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "ReactJS Girls",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-03",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-12-19T13:12:07.250Z",
+    "endDate": "2019-05-03",
+    "latitude": 51.5073219,
+    "name": "ReactJS Girls",
+    "updated_at": "2018-12-19T13:12:08.648Z",
+    "cfpEndDate": null,
+    "cfpUrl": "https://yld.typeform.com/to/gfZ2jc",
+    "url": "https://reactjsgirls.com/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1556884800,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 51.5073219,
+      "lng": -0.1276474
+    },
+    "endDateUnix": 1556884800,
+    "affiliateText": null,
+    "twitter_followers": 1761,
+    "twitter": "@ReactJSgirls",
+    "city": "London"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "fNC9X+Xu637Z6lUKYAQyAtJjgYM=",
+    "cfpStartDateUnix": 0,
+    "id": 7906,
+    "country": "U.K.",
+    "tweeted_at": "2018-11-09T17:02:51.107Z",
+    "cfpStartDate": null,
+    "longitude": -0.1276474,
+    "startDate": "2019-05-03",
+    "objectID": "fNC9X+Xu637Z6lUKYAQyAtJjgYM=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "CityJSConf",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-03",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T17:02:51.089Z",
+    "endDate": "2019-05-03",
+    "latitude": 51.5073219,
+    "name": "CityJSConf",
+    "updated_at": "2018-12-15T19:51:39.880Z",
+    "cfpEndDate": "2019-01-31",
+    "cfpUrl": "https://www.papercall.io/cityjsconf2019",
+    "url": "http://cityjsconf.org",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1548936000,
+    "emails": null,
+    "startDateUnix": 1556884800,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 51.5073219,
+      "lng": -0.1276474
+    },
+    "endDateUnix": 1556884800,
+    "affiliateText": null,
+    "twitter_followers": 498,
+    "twitter": "@cityjsconf",
+    "city": "London"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "6R7UWctmBuhdM+8CIr7S8UoNlNs=",
+    "cfpStartDateUnix": 0,
+    "id": 8380,
+    "country": "Italy",
+    "tweeted_at": null,
+    "cfpStartDate": null,
+    "longitude": 10.9924122,
+    "startDate": "2019-05-08",
+    "objectID": "6R7UWctmBuhdM+8CIr7S8UoNlNs=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "JSDay",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-08",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-01-18T23:08:42.047Z",
+    "endDate": "2019-05-09",
+    "latitude": 45.4384958,
+    "name": "JSDay",
+    "updated_at": "2019-01-18T23:08:43.043Z",
+    "cfpEndDate": "2019-02-04",
+    "cfpUrl": "https://cfp.jsday.it/",
+    "url": "https://2019.jsday.it",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1549281600,
+    "emails": null,
+    "startDateUnix": 1557316800,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 45.4384958,
+      "lng": 10.9924122
+    },
+    "endDateUnix": 1557403200,
+    "affiliateText": null,
+    "twitter_followers": 2070,
+    "twitter": "@jsconfit",
+    "city": "Verona"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "bAVJMrrQ8G3qZm7EaXSDYvKzIJ4=",
+    "cfpStartDateUnix": 0,
+    "id": 8419,
+    "country": "U.S.A.",
+    "tweeted_at": null,
+    "cfpStartDate": null,
+    "longitude": -77.0365625,
+    "startDate": "2019-05-10",
+    "objectID": "bAVJMrrQ8G3qZm7EaXSDYvKzIJ4=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "NationJS Frontrunners",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-10",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-01-22T17:08:49.216Z",
+    "endDate": "2019-05-10",
+    "latitude": 38.8950092,
+    "name": "NationJS Frontrunners",
+    "updated_at": "2019-01-22T17:08:50.145Z",
+    "cfpEndDate": "2019-03-04",
+    "cfpUrl": "https://www.papercall.io/nationjs-frontrunners2019",
+    "url": "http://nationjs.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1551700800,
+    "emails": null,
+    "startDateUnix": 1557489600,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 38.8950092,
+      "lng": -77.0365625
+    },
+    "endDateUnix": 1557489600,
+    "affiliateText": null,
+    "twitter_followers": 1603,
+    "twitter": "@nationjs",
+    "city": "Washington, DC"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "EtjYllqn4QcZIjtHqSvK7LMWJWw=",
+    "cfpStartDateUnix": 0,
+    "id": 7891,
+    "country": "U.K.",
+    "tweeted_at": "2018-11-09T15:23:46.443Z",
+    "cfpStartDate": null,
+    "longitude": -0.1276474,
+    "startDate": "2019-05-13",
+    "objectID": "EtjYllqn4QcZIjtHqSvK7LMWJWw=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "International JavaScript Conference",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-13",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T15:23:46.439Z",
+    "endDate": "2019-05-15",
+    "latitude": 51.5073219,
+    "name": "International JavaScript Conference",
+    "updated_at": "2018-12-15T19:51:08.425Z",
+    "cfpEndDate": "2018-10-31",
+    "cfpUrl": "https://javascript-conference.com/call-for-papers/",
+    "url": "https://javascript-conference.com/en",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1540987200,
+    "emails": null,
+    "startDateUnix": 1557748800,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 51.5073219,
+      "lng": -0.1276474
+    },
+    "endDateUnix": 1557921600,
+    "affiliateText": null,
+    "twitter_followers": 2409,
+    "twitter": "@JavaScriptCon",
+    "city": "London"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "qoXd2hYk26nscQkB6VWoScN+I5M=",
+    "cfpStartDateUnix": 0,
+    "id": 7934,
+    "country": "U.S.A.",
+    "tweeted_at": "2018-11-22T17:01:28.206Z",
+    "cfpStartDate": null,
+    "longitude": -75.9831098,
+    "startDate": "2019-05-16",
+    "objectID": "qoXd2hYk26nscQkB6VWoScN+I5M=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "FullStack NYC",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-16",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-22T17:01:28.180Z",
+    "endDate": "2019-05-17",
+    "latitude": 42.2132514,
+    "name": "FullStack NYC",
+    "updated_at": "2018-12-15T19:51:36.712Z",
+    "cfpEndDate": "2018-12-04",
+    "cfpUrl": "https://skillsmatter.com/conferences/11077#get_involved",
+    "url": "https://skillsmatter.com/conferences/11077",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1543924800,
+    "emails": null,
+    "startDateUnix": 1558008000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 42.2132514,
+      "lng": -75.9831098
+    },
+    "endDateUnix": 1558094400,
+    "affiliateText": null,
+    "twitter_followers": 15871,
+    "twitter": "@skillsmatter",
+    "city": "New York"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "UU/bt+BV1mq+RjJsFrfYBZircdo=",
+    "cfpStartDateUnix": 0,
+    "id": 7892,
+    "country": "Lithuania",
+    "tweeted_at": "2018-11-09T15:23:47.343Z",
+    "cfpStartDate": null,
+    "longitude": 25.2829111,
+    "startDate": "2019-05-16",
+    "objectID": "UU/bt+BV1mq+RjJsFrfYBZircdo=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "You Gotta Love Frontend",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-16",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T15:23:47.338Z",
+    "endDate": "2019-05-17",
+    "latitude": 54.6870458,
+    "name": "You Gotta Love Frontend",
+    "updated_at": "2018-12-15T19:51:10.922Z",
+    "cfpEndDate": "2019-02-01",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScop_EaKnLyrgpGN4KiYXAoHmv4_f9vopE1_XIPQalxxdGA9Q/viewform",
+    "url": "https://www.yougottalovefrontend.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1549022400,
+    "emails": null,
+    "startDateUnix": 1558008000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 54.6870458,
+      "lng": 25.2829111
+    },
+    "endDateUnix": 1558094400,
+    "affiliateText": null,
+    "twitter_followers": 673,
+    "twitter": "@YGLFConf",
+    "city": "Vilnius"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "PdG7fYMyLfQLYtR/q/oACYX0p5U=",
+    "cfpStartDateUnix": 0,
+    "id": 8183,
+    "country": "France",
+    "tweeted_at": "2019-01-08T17:08:41.288Z",
+    "cfpStartDate": null,
+    "longitude": 2.3514992,
+    "startDate": "2019-05-16",
+    "objectID": "PdG7fYMyLfQLYtR/q/oACYX0p5U=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Newcrafts",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-16",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-01-08T17:08:41.282Z",
+    "endDate": "2019-05-17",
+    "latitude": 48.8566101,
+    "name": "Newcrafts",
+    "updated_at": "2019-01-08T17:08:42.753Z",
+    "cfpEndDate": "2019-03-03",
+    "cfpUrl": "http://cfp.ncrafts.io",
+    "url": "http://ncrafts.io",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1551614400,
+    "emails": null,
+    "startDateUnix": 1558008000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 48.8566101,
+      "lng": 2.3514992
+    },
+    "endDateUnix": 1558094400,
+    "affiliateText": null,
+    "twitter_followers": 1619,
+    "twitter": "@ncraftsconf",
+    "city": "Paris"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "k8x+DWu3dODWxCIpgEVI11bnwh8=",
+    "cfpStartDateUnix": 0,
+    "id": 7915,
+    "country": "Netherlands",
+    "tweeted_at": "2018-11-16T22:01:21.555Z",
+    "cfpStartDate": null,
+    "longitude": 5.12768031549829,
+    "startDate": "2019-05-17",
+    "objectID": "k8x+DWu3dODWxCIpgEVI11bnwh8=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        },
+        {
+          "value": "css",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Frontend United",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-17",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-16T22:01:21.541Z",
+    "endDate": "2019-05-18",
+    "latitude": 52.08095165,
+    "name": "Frontend United",
+    "updated_at": "2018-12-15T19:51:49.112Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://www.frontendunited.org",
+    "topics": [
+      "javascript",
+      "css"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1558094400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 52.08095165,
+      "lng": 5.12768031549829
+    },
+    "endDateUnix": 1558180800,
+    "affiliateText": null,
+    "twitter_followers": 2381,
+    "twitter": "@frontendunited",
+    "city": "Utrecht"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "DG+GP56rJrI9Gw6St0HWtLQueBs=",
+    "cfpStartDateUnix": 0,
+    "id": 7893,
+    "country": "France",
+    "tweeted_at": "2018-11-09T15:23:48.130Z",
+    "cfpStartDate": null,
+    "longitude": 2.3514992,
+    "startDate": "2019-05-23",
+    "objectID": "DG+GP56rJrI9Gw6St0HWtLQueBs=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "ReactEurope",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-23",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T15:23:48.126Z",
+    "endDate": "2019-05-24",
+    "latitude": 48.8566101,
+    "name": "ReactEurope",
+    "updated_at": "2018-12-15T19:51:12.547Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://www.react-europe.org",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1558612800,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 48.8566101,
+      "lng": 2.3514992
+    },
+    "endDateUnix": 1558699200,
+    "affiliateText": null,
+    "twitter_followers": 15595,
+    "twitter": "@ReactEurope",
+    "city": "Paris"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "BEAqXeBwHAB7XbOoGqwUqPg2gGg=",
+    "cfpStartDateUnix": 0,
+    "id": 7958,
+    "country": "Russia",
+    "tweeted_at": "2018-11-27T21:02:29.067Z",
+    "cfpStartDate": null,
+    "longitude": 30.316229,
+    "startDate": "2019-05-24",
+    "objectID": "BEAqXeBwHAB7XbOoGqwUqPg2gGg=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "HolyJS Piter",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-24",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-27T21:02:29.053Z",
+    "endDate": "2019-05-25",
+    "latitude": 59.938732,
+    "name": "HolyJS Piter",
+    "updated_at": "2018-12-15T19:51:40.908Z",
+    "cfpEndDate": null,
+    "cfpUrl": "https://holyjs-piter.ru/en/callforpapers/",
+    "url": "https://holyjs-piter.ru/en",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1558699200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 59.938732,
+      "lng": 30.316229
+    },
+    "endDateUnix": 1558785600,
+    "affiliateText": null,
+    "twitter_followers": 1088,
+    "twitter": "@HolyJSconf",
+    "city": "Saint Petersburg"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "toGA9ZJZ/KdeOjCvLWkOdKa2WlM=",
+    "cfpStartDateUnix": 0,
+    "id": 7937,
+    "country": "Denmark",
+    "tweeted_at": "2018-11-23T15:01:19.338Z",
+    "cfpStartDate": null,
+    "longitude": 12.5700724,
+    "startDate": "2019-05-27",
+    "objectID": "toGA9ZJZ/KdeOjCvLWkOdKa2WlM=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "ngVikings",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-27",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-23T15:01:19.330Z",
+    "endDate": "2019-05-28",
+    "latitude": 55.6867243,
+    "name": "ngVikings",
+    "updated_at": "2018-12-15T19:50:26.000Z",
+    "cfpEndDate": "2019-01-31",
+    "cfpUrl": "https://t.co/CuvkTq68uO",
+    "url": "https://ngvikings.org/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1548936000,
+    "emails": null,
+    "startDateUnix": 1558958400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 55.6867243,
+      "lng": 12.5700724
+    },
+    "endDateUnix": 1559044800,
+    "affiliateText": null,
+    "twitter_followers": 1841,
+    "twitter": "@ngVikingsConf",
+    "city": "Copenhagen"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "4e3KeuQAYtCmkzLgEBZnnqFNhIQ=",
+    "cfpStartDateUnix": 0,
+    "id": 7945,
+    "country": "Netherlands",
+    "tweeted_at": "2018-11-24T00:03:50.615Z",
+    "cfpStartDate": null,
+    "longitude": 4.89797550561798,
+    "startDate": "2019-05-31",
+    "objectID": "4e3KeuQAYtCmkzLgEBZnnqFNhIQ=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "JSNation",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-05-31",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-24T00:03:50.609Z",
+    "endDate": "2019-06-01",
+    "latitude": 52.3745403,
+    "name": "JSNation",
+    "updated_at": "2018-12-15T19:52:01.517Z",
+    "cfpEndDate": "2019-03-31",
+    "cfpUrl": "https://docs.google.com/forms/d/1whCnyZBqnVNli41Wk0wJh53jSL6topRm_uWMPyNCkPk/edit?usp=sharing",
+    "url": "http://amsterdamjs.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1554033600,
+    "emails": null,
+    "startDateUnix": 1559304000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 52.3745403,
+      "lng": 4.89797550561798
+    },
+    "endDateUnix": 1559390400,
+    "affiliateText": null,
+    "twitter_followers": 1617,
+    "twitter": "@amsterdamjs",
+    "city": "Amsterdam"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "ffXD05Fo9knzb0TQlDv3b1NPeLc=",
+    "cfpStartDateUnix": 0,
+    "id": 4197,
+    "country": "Germany",
+    "tweeted_at": "2018-07-23T20:33:52.093Z",
+    "cfpStartDate": null,
+    "longitude": 13.3888599,
+    "startDate": "2019-06-01",
+    "objectID": "ffXD05Fo9knzb0TQlDv3b1NPeLc=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "JSConf EU",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-06-01",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-07-03T13:04:44.077Z",
+    "endDate": "2019-06-02",
+    "latitude": 52.5170365,
+    "name": "JSConf EU",
+    "updated_at": "2018-12-15T19:50:58.075Z",
+    "cfpEndDate": "2018-12-23",
+    "cfpUrl": "https://2019.jsconf.eu/call-for-speakers/",
+    "url": "https://2019.jsconf.eu",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1545566400,
+    "emails": null,
+    "startDateUnix": 1559390400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 52.5170365,
+      "lng": 13.3888599
+    },
+    "endDateUnix": 1559476800,
+    "affiliateText": null,
+    "twitter_followers": 18257,
+    "twitter": "@jsconfeu",
+    "city": "Berlin"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "zkUz2pcnjSF644AQ8IuYHHRJFKY=",
+    "cfpStartDateUnix": 0,
+    "id": 7912,
+    "country": "Netherlands",
+    "tweeted_at": "2018-11-12T15:03:29.618Z",
+    "cfpStartDate": null,
+    "longitude": 4.89797550561798,
+    "startDate": "2019-06-06",
+    "objectID": "zkUz2pcnjSF644AQ8IuYHHRJFKY=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "JSNation",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-06-06",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-12T15:03:29.609Z",
+    "endDate": "2019-06-07",
+    "latitude": 52.3745403,
+    "twitter": "@amsterdamjs",
+    "updated_at": "2019-02-01T20:08:20.412Z",
+    "cfpEndDate": "2019-03-31",
+    "cfpUrl": "https://docs.google.com/forms/d/1whCnyZBqnVNli41Wk0wJh53jSL6topRm_uWMPyNCkPk/edit?usp=sharing",
+    "url": "http://amsterdamjs.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1554033600,
+    "emails": null,
+    "startDateUnix": 1559822400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 52.3745403,
+      "lng": 4.89797550561798
+    },
+    "endDateUnix": 1559908800,
+    "affiliateText": null,
+    "twitter_followers": 1613,
+    "name": "JSNation",
+    "city": "Amsterdam"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "yixOvKKO1LObLMhVQn3+CR8DEF8=",
+    "cfpStartDateUnix": 0,
+    "id": 7959,
+    "country": "U.K.",
+    "tweeted_at": "2018-11-27T21:02:30.043Z",
+    "cfpStartDate": null,
+    "longitude": -5.9300992,
+    "startDate": "2019-06-07",
+    "objectID": "yixOvKKO1LObLMhVQn3+CR8DEF8=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Pixel Pioneers Belfast",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-06-07",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-27T21:02:30.034Z",
+    "endDate": "2019-06-07",
+    "latitude": 54.5969869,
+    "name": "Pixel Pioneers Belfast",
+    "updated_at": "2018-12-15T19:51:42.560Z",
+    "cfpEndDate": null,
+    "cfpUrl": "https://pixelpioneers.co/call-for-speakers",
+    "url": "https://pixelpioneers.co",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1559908800,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 54.5969869,
+      "lng": -5.9300992
+    },
+    "endDateUnix": 1559908800,
+    "affiliateText": null,
+    "twitter_followers": null,
+    "twitter": null,
+    "city": "Belfast"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "9s2KNdKtZhsEUk4GT5eRGtaawwo=",
+    "cfpStartDateUnix": 0,
+    "id": 8490,
+    "country": "U.S.A.",
+    "tweeted_at": null,
+    "cfpStartDate": null,
+    "longitude": -81.3790388,
+    "startDate": "2019-06-09",
+    "objectID": "9s2KNdKtZhsEUk4GT5eRGtaawwo=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "AngularMIX & AngleBrackets & DEVintersection",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-06-09",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-02-05T09:08:45.867Z",
+    "endDate": "2019-06-14",
+    "latitude": 28.5421097,
+    "name": "AngularMIX & AngleBrackets & DEVintersection",
+    "updated_at": "2019-02-05T09:08:46.768Z",
+    "cfpEndDate": null,
+    "cfpUrl": "https://goo.gl/forms/iHPNUhX4MbfvQG342",
+    "url": "https://angularmix.com/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1560081600,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 28.5421097,
+      "lng": -81.3790388
+    },
+    "endDateUnix": 1560513600,
+    "affiliateText": null,
+    "twitter_followers": 2739,
+    "twitter": "@devintersection",
+    "city": "Orlando, FL"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "t9nbzZ3/xtVwa/Az//hoWXkY0Ho=",
+    "cfpStartDateUnix": 0,
+    "id": 7976,
+    "country": "Israel",
+    "tweeted_at": "2018-12-05T18:01:54.294Z",
+    "cfpStartDate": null,
+    "longitude": 34.7805274,
+    "startDate": "2019-06-11",
+    "objectID": "t9nbzZ3/xtVwa/Az//hoWXkY0Ho=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "ReactNext",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-06-11",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-12-05T18:01:54.277Z",
+    "endDate": "2019-06-11",
+    "latitude": 32.0804808,
+    "name": "ReactNext",
+    "updated_at": "2018-12-15T19:52:08.341Z",
+    "cfpEndDate": "2019-03-15",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd5XH8lFRAIR4Yb5GmcmfBSDe-RQWB6XVOK46NFwYL-7I4BlQ/viewform",
+    "url": "https://react-next.com/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1552651200,
+    "emails": null,
+    "startDateUnix": 1560254400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 32.0804808,
+      "lng": 34.7805274
+    },
+    "endDateUnix": 1560254400,
+    "affiliateText": null,
+    "twitter_followers": 1999,
+    "twitter": "@ReactNext",
+    "city": "Tel Aviv"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "O8wwtOQwaQi5t89A7ZNZF0+9fzY=",
+    "cfpStartDateUnix": 0,
+    "id": 7988,
+    "country": "Norway",
+    "tweeted_at": "2018-12-10T16:02:37.484Z",
+    "cfpStartDate": null,
+    "longitude": 10.0219299599728,
+    "startDate": "2019-06-12",
+    "objectID": "O8wwtOQwaQi5t89A7ZNZF0+9fzY=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "React Day Norway",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-06-12",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-12-10T16:02:37.463Z",
+    "endDate": "2019-06-12",
+    "latitude": 59.0967308,
+    "name": "React Day Norway",
+    "updated_at": "2018-12-15T19:51:54.073Z",
+    "cfpEndDate": "2019-06-01",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe2d6XhxZvIQS3MBUzS5faInvhzbHPdHPqT7nVZV0jHl2c8Ag/viewform",
+    "url": "https://reactnorway.com/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1559390400,
+    "emails": null,
+    "startDateUnix": 1560340800,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 59.0967308,
+      "lng": 10.0219299599728
+    },
+    "endDateUnix": 1560340800,
+    "affiliateText": null,
+    "twitter_followers": 94,
+    "twitter": "@reactnorway",
+    "city": "Larvik"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "24abuiB3YkJMbUlUQ+90Wf+gRfU=",
+    "cfpStartDateUnix": 0,
+    "id": 7922,
+    "country": "Singapore",
+    "tweeted_at": "2018-11-19T14:01:30.471Z",
+    "cfpStartDate": null,
+    "longitude": 103.878446863736,
+    "startDate": "2019-06-14",
+    "objectID": "24abuiB3YkJMbUlUQ+90Wf+gRfU=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "JSConf.Asia",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-06-14",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-19T14:01:30.465Z",
+    "endDate": "2019-06-16",
+    "latitude": 1.3408528,
+    "name": "JSConf.Asia",
+    "updated_at": "2018-12-15T19:51:25.524Z",
+    "cfpEndDate": null,
+    "cfpUrl": "https://contribute.jsconf.asia/",
+    "url": "https://2019.jsconf.asia",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1560513600,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 1.3408528,
+      "lng": 103.878446863736
+    },
+    "endDateUnix": 1560686400,
+    "affiliateText": null,
+    "twitter_followers": 2430,
+    "twitter": "@jsconfasia",
+    "city": "Singapore"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "QeFUeHmj4TFHGYBtJkNrXZ03gE8=",
+    "cfpStartDateUnix": 0,
+    "id": 7948,
+    "country": "Germany",
+    "tweeted_at": "2018-11-26T17:03:14.969Z",
+    "cfpStartDate": null,
+    "longitude": 13.3888599,
+    "startDate": "2019-06-16",
+    "objectID": "QeFUeHmj4TFHGYBtJkNrXZ03gE8=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Berlin Buzzwords",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-06-16",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-26T17:03:14.954Z",
+    "endDate": "2019-06-18",
+    "latitude": 52.5170365,
+    "name": "Berlin Buzzwords",
+    "updated_at": "2018-12-15T19:51:38.863Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://berlinbuzzwords.de",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1560686400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 52.5170365,
+      "lng": 13.3888599
+    },
+    "endDateUnix": 1560859200,
+    "affiliateText": null,
+    "twitter_followers": 2115,
+    "twitter": "@berlinbuzzwords",
+    "city": "Berlin"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "nSmkFNMWsCTKZ+tfR/bnKt1PCSo=",
+    "cfpStartDateUnix": 0,
+    "id": 7991,
+    "country": "Colombia",
+    "tweeted_at": "2018-12-12T14:01:59.696Z",
+    "cfpStartDate": null,
+    "longitude": -75.573553,
+    "startDate": "2019-06-21",
+    "objectID": "nSmkFNMWsCTKZ+tfR/bnKt1PCSo=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "NodeConf Colombia",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-06-21",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-12-12T14:01:59.664Z",
+    "endDate": "2019-06-22",
+    "latitude": 6.2443382,
+    "name": "NodeConf Colombia",
+    "updated_at": "2018-12-15T19:51:54.589Z",
+    "cfpEndDate": "2019-02-28",
+    "cfpUrl": "https://cfp.nodeconf.co/",
+    "url": "https://colombia.nodeconf.com/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1551355200,
+    "emails": null,
+    "startDateUnix": 1561118400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 6.2443382,
+      "lng": -75.573553
+    },
+    "endDateUnix": 1561204800,
+    "affiliateText": null,
+    "twitter_followers": 499,
+    "twitter": "@NodeConfCo",
+    "city": "Medell\u00edn"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "psUPJf5AdL2+ukpxD2OIeYfOOBY=",
+    "cfpStartDateUnix": 0,
+    "id": 6916,
+    "country": "Canada",
+    "tweeted_at": "2018-10-25T22:02:14.473Z",
+    "cfpStartDate": null,
+    "longitude": -79.387207,
+    "startDate": "2019-06-25",
+    "objectID": "psUPJf5AdL2+ukpxD2OIeYfOOBY=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        },
+        {
+          "value": "css",
+          "matchedWords": [],
+          "matchLevel": "none"
+        },
+        {
+          "value": "ux",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Smashing Conference",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-06-25",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-10-25T22:02:14.461Z",
+    "endDate": "2019-06-26",
+    "latitude": 43.653963,
+    "name": "Smashing Conference",
+    "updated_at": "2018-12-15T19:50:31.011Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://www.smashingconf.com/toronto-2019/",
+    "topics": [
+      "javascript",
+      "css",
+      "ux"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1561464000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 43.653963,
+      "lng": -79.387207
+    },
+    "endDateUnix": 1561550400,
+    "affiliateText": null,
+    "twitter_followers": 8698,
+    "twitter": "@smashingconf",
+    "city": "Toronto"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "pCGxww8uifGOleM6ZiFVSIT2SI0=",
+    "cfpStartDateUnix": 0,
+    "id": 8267,
+    "country": "Canada",
+    "tweeted_at": "2019-01-09T13:22:14.599Z",
+    "cfpStartDate": null,
+    "longitude": -79.387207,
+    "startDate": "2019-06-25",
+    "objectID": "pCGxww8uifGOleM6ZiFVSIT2SI0=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        },
+        {
+          "value": "css",
+          "matchedWords": [],
+          "matchLevel": "none"
+        },
+        {
+          "value": "ux",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Smashing Conference",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-06-25",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-01-09T13:22:14.580Z",
+    "endDate": "2019-06-26",
+    "latitude": 43.653963,
+    "twitter": "@smashingconf",
+    "updated_at": "2019-02-10T13:10:25.134Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://smashingconf.com/toronto-2019",
+    "topics": [
+      "javascript",
+      "css",
+      "ux"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1561464000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 43.653963,
+      "lng": -79.387207
+    },
+    "endDateUnix": 1561550400,
+    "affiliateText": null,
+    "twitter_followers": 8785,
+    "name": "Smashing Conference",
+    "city": "Toronto"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "VSR6s6t8JokM4YTrZ2NQAOI9LbE=",
+    "cfpStartDateUnix": 0,
+    "id": 7894,
+    "country": "Germany",
+    "tweeted_at": "2018-11-09T15:23:49.259Z",
+    "cfpStartDate": null,
+    "longitude": 8.651177,
+    "startDate": "2019-06-25",
+    "objectID": "VSR6s6t8JokM4YTrZ2NQAOI9LbE=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "enterJS",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-06-25",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T15:23:49.255Z",
+    "endDate": "2019-06-28",
+    "latitude": 49.872775,
+    "name": "enterJS",
+    "updated_at": "2018-12-15T19:51:13.038Z",
+    "cfpEndDate": "2019-01-14",
+    "cfpUrl": "https://www.enterjs.de/call-for-proposals-en",
+    "url": "https://www.enterjs.de/index.php",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1547467200,
+    "emails": null,
+    "startDateUnix": 1561464000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 49.872775,
+      "lng": 8.651177
+    },
+    "endDateUnix": 1561723200,
+    "affiliateText": null,
+    "twitter_followers": 1111,
+    "twitter": "@enterjsconf",
+    "city": "Darmstadt"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "5Yuj+0y6BzftFHH609G6X8VhlDo=",
+    "cfpStartDateUnix": 0,
+    "id": 7941,
+    "country": "Spain",
+    "tweeted_at": "2018-11-23T18:02:05.878Z",
+    "cfpStartDate": null,
+    "longitude": -3.7035825,
+    "startDate": "2019-06-28",
+    "objectID": "5Yuj+0y6BzftFHH609G6X8VhlDo=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "ngSpain",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-06-28",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-23T18:02:05.862Z",
+    "endDate": "2019-06-30",
+    "latitude": 40.4167047,
+    "name": "ngSpain",
+    "updated_at": "2018-12-15T19:51:41.451Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://www.ngspain.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1561723200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 40.4167047,
+      "lng": -3.7035825
+    },
+    "endDateUnix": 1561896000,
+    "affiliateText": null,
+    "twitter_followers": 386,
+    "twitter": "@ngspain",
+    "city": "Madrid"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "BJIcEzZqvZ7R/2c2TdSEs/Ly0I8=",
+    "cfpStartDateUnix": 0,
+    "id": 7967,
+    "country": "U.K.",
+    "tweeted_at": "2018-12-03T20:01:55.850Z",
+    "cfpStartDate": null,
+    "longitude": -0.1276474,
+    "startDate": "2019-07-04",
+    "objectID": "BJIcEzZqvZ7R/2c2TdSEs/Ly0I8=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        },
+        {
+          "value": "data",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Infiniteconf",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-07-04",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-12-03T20:01:55.841Z",
+    "endDate": "2019-07-05",
+    "latitude": 51.5073219,
+    "twitter": "@skillsmatter",
+    "updated_at": "2019-02-10T13:11:32.106Z",
+    "cfpEndDate": "2019-02-28",
+    "cfpUrl": "https://skillsmatter.com/conferences/11187-infiniteconf-2019-the-conference-on-big-data-and-ai#get_involved",
+    "url": "https://skillsmatter.com/conferences/11187-infiniteconf-2019-the-conference-on-big-data-and-ai#overview",
+    "topics": [
+      "javascript",
+      "data"
+    ],
+    "cfpEndDateUnix": 1551355200,
+    "emails": null,
+    "startDateUnix": 1562241600,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 51.5073219,
+      "lng": -0.1276474
+    },
+    "endDateUnix": 1562328000,
+    "affiliateText": null,
+    "twitter_followers": 15906,
+    "name": "Infiniteconf",
+    "city": "London"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "LAp8VreT2IN8XNd+infQ21/xi2o=",
+    "cfpStartDateUnix": 0,
+    "id": 8482,
+    "country": "Malaysia",
+    "tweeted_at": null,
+    "cfpStartDate": null,
+    "longitude": 101.6943028,
+    "startDate": "2019-07-06",
+    "objectID": "LAp8VreT2IN8XNd+infQ21/xi2o=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "NG-MY",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-07-06",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-02-03T18:08:14.214Z",
+    "endDate": "2019-07-07",
+    "latitude": 3.1516636,
+    "name": "NG-MY",
+    "updated_at": "2019-02-03T18:08:15.093Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://2019.ng-my.org",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1562414400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 3.1516636,
+      "lng": 101.6943028
+    },
+    "endDateUnix": 1562500800,
+    "affiliateText": null,
+    "twitter_followers": 176,
+    "twitter": "@ngmyconf",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "QSHbGEo5efRcso2+nGoyO6RfF6M=",
+    "cfpStartDateUnix": 0,
+    "id": 7960,
+    "country": "U.S.A.",
+    "tweeted_at": "2018-11-27T21:02:30.534Z",
+    "cfpStartDate": null,
+    "longitude": -99.0277414,
+    "startDate": "2019-07-11",
+    "objectID": "QSHbGEo5efRcso2+nGoyO6RfF6M=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Chain React",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-07-11",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-27T21:02:30.523Z",
+    "endDate": "2019-07-12",
+    "latitude": 19.5584043,
+    "name": "Chain React",
+    "updated_at": "2018-12-15T19:51:40.408Z",
+    "cfpEndDate": "2019-03-01",
+    "cfpUrl": "https://sessionize.com/chain-react-2019",
+    "url": "https://infinite.red/ChainReactConf",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1551441600,
+    "emails": null,
+    "startDateUnix": 1562846400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 19.5584043,
+      "lng": -99.0277414
+    },
+    "endDateUnix": 1562932800,
+    "affiliateText": null,
+    "twitter_followers": 2123,
+    "twitter": "@ChainReactConf",
+    "city": "Portland, OR"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "1kO6Ku5QOHIeDv6KivvOnBhFKwo=",
+    "cfpStartDateUnix": 0,
+    "id": 4265,
+    "country": "Spain",
+    "tweeted_at": "2018-07-23T04:14:52.455Z",
+    "cfpStartDate": null,
+    "longitude": 2.1774322,
+    "startDate": "2019-07-18",
+    "objectID": "1kO6Ku5QOHIeDv6KivvOnBhFKwo=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "JSCamp Barcelona",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-07-18",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-07-22T19:34:04.224Z",
+    "endDate": "2019-07-19",
+    "latitude": 41.3828939,
+    "twitter": "@jscamp",
+    "updated_at": "2019-01-10T16:08:17.626Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://jscamp.tech",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1563451200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 41.3828939,
+      "lng": 2.1774322
+    },
+    "endDateUnix": 1563537600,
+    "affiliateText": null,
+    "twitter_followers": 3694,
+    "name": "JSCamp Barcelona",
+    "city": "Barcelona"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "Zy5RjVfKfh+wxQtTW7Hp+Y3FFiQ=",
+    "cfpStartDateUnix": 0,
+    "id": 7999,
+    "country": "Ukraine",
+    "tweeted_at": "2018-12-13T13:01:31.273Z",
+    "cfpStartDate": null,
+    "longitude": 30.7433894,
+    "startDate": "2019-07-20",
+    "objectID": "Zy5RjVfKfh+wxQtTW7Hp+Y3FFiQ=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "OdessaJS",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-07-20",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-12-13T13:01:31.248Z",
+    "endDate": "2019-07-21",
+    "latitude": 46.4852419,
+    "name": "OdessaJS",
+    "updated_at": "2018-12-15T19:51:56.160Z",
+    "cfpEndDate": "2019-03-30",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform",
+    "url": "http://odessajs.org/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1553947200,
+    "emails": null,
+    "startDateUnix": 1563624000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 46.4852419,
+      "lng": 30.7433894
+    },
+    "endDateUnix": 1563710400,
+    "affiliateText": null,
+    "twitter_followers": 779,
+    "twitter": "@OdessaJS",
+    "city": "Odessa"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "z1yeBf6Lw02oF61NZtowj1xZtlw=",
+    "cfpStartDateUnix": 0,
+    "id": 8371,
+    "country": "U.S.A.",
+    "tweeted_at": null,
+    "cfpStartDate": null,
+    "longitude": -83.0007065,
+    "startDate": "2019-08-02",
+    "objectID": "z1yeBf6Lw02oF61NZtowj1xZtlw=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "JavaScript and Friends Conference",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-08-02",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-01-15T09:08:40.217Z",
+    "endDate": "2019-08-02",
+    "latitude": 39.9622601,
+    "name": "JavaScript and Friends Conference",
+    "updated_at": "2019-01-15T09:08:41.012Z",
+    "cfpEndDate": "2019-04-11",
+    "cfpUrl": "https://sessionize.com/javascript-and-friends-conference/",
+    "url": "https://www.javascriptandfriends.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1554984000,
+    "emails": null,
+    "startDateUnix": 1564747200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 39.9622601,
+      "lng": -83.0007065
+    },
+    "endDateUnix": 1564747200,
+    "affiliateText": null,
+    "twitter_followers": 28,
+    "twitter": "@JSFriendsConf",
+    "city": "Columbus"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "Litax29RHTfi24gayiy9uRCXnNw=",
+    "cfpStartDateUnix": 0,
+    "id": 8000,
+    "country": "U.S.A.",
+    "tweeted_at": "2018-12-13T13:01:32.323Z",
+    "cfpStartDate": null,
+    "longitude": -117.3505966,
+    "startDate": "2019-08-11",
+    "objectID": "Litax29RHTfi24gayiy9uRCXnNw=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "JSConf US",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-08-11",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-12-13T13:01:32.309Z",
+    "endDate": "2019-08-14",
+    "latitude": 33.1580933,
+    "twitter": "@jsconfus",
+    "updated_at": "2019-01-14T15:09:20.132Z",
+    "cfpEndDate": "2019-03-01",
+    "cfpUrl": "https://2019.jsconf.us/call-for-proposals/",
+    "url": "https://2019.jsconf.us/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1551441600,
+    "emails": null,
+    "startDateUnix": 1565524800,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 33.1580933,
+      "lng": -117.3505966
+    },
+    "endDateUnix": 1565784000,
+    "affiliateText": null,
+    "twitter_followers": 1469,
+    "name": "JSConf US",
+    "city": "Carlsbad, CA"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "NUMcs9J9JIeHR8m6DBXlDlU6u9s=",
+    "cfpStartDateUnix": 0,
+    "id": 7896,
+    "country": "India",
+    "tweeted_at": "2018-11-09T15:23:51.142Z",
+    "cfpStartDate": null,
+    "longitude": 74.0855134,
+    "startDate": "2019-08-23",
+    "objectID": "NUMcs9J9JIeHR8m6DBXlDlU6u9s=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "React India",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-08-23",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T15:23:51.137Z",
+    "endDate": "2019-08-25",
+    "latitude": 15.3004543,
+    "name": "React India",
+    "updated_at": "2018-12-15T19:51:27.064Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://www.reactindia.io/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1566561600,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 15.3004543,
+      "lng": 74.0855134
+    },
+    "endDateUnix": 1566734400,
+    "affiliateText": null,
+    "twitter_followers": 633,
+    "twitter": "@react_india",
+    "city": "Goa"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "0ecOO4I2h6F3WShF5N0/0EjR4Hg=",
+    "cfpStartDateUnix": 0,
+    "id": 8147,
+    "country": "Switzerland",
+    "tweeted_at": "2019-01-07T14:26:44.956Z",
+    "cfpStartDate": null,
+    "longitude": 8.5414061,
+    "startDate": "2019-08-29",
+    "objectID": "0ecOO4I2h6F3WShF5N0/0EjR4Hg=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Frontend Conference Zurich",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-08-29",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-01-07T14:26:44.931Z",
+    "endDate": "2019-08-30",
+    "latitude": 47.3769434,
+    "name": "Frontend Conference Zurich",
+    "updated_at": "2019-01-07T14:26:46.406Z",
+    "cfpEndDate": "2019-04-30",
+    "cfpUrl": "https://frontendconf.ch/call-for-speakers",
+    "url": "https://www.frontendconf.ch",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1556625600,
+    "emails": null,
+    "startDateUnix": 1567080000,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 47.3769434,
+      "lng": 8.5414061
+    },
+    "endDateUnix": 1567166400,
+    "affiliateText": null,
+    "twitter_followers": 3204,
+    "twitter": "@frontendconfch",
+    "city": "Zurich"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "azX1byvE8JvPkLLmVDaJZPCov/c=",
+    "cfpStartDateUnix": 0,
+    "id": 7939,
+    "country": "Germany",
+    "tweeted_at": "2018-11-23T17:01:53.169Z",
+    "cfpStartDate": null,
+    "longitude": 13.3888599,
+    "startDate": "2019-08-30",
+    "objectID": "azX1byvE8JvPkLLmVDaJZPCov/c=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "NG-DE",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-08-30",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-23T17:01:53.163Z",
+    "endDate": "2019-08-31",
+    "latitude": 52.5170365,
+    "name": "NG-DE",
+    "updated_at": "2018-12-15T19:51:16.177Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://ng-de.org",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1567166400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 52.5170365,
+      "lng": 13.3888599
+    },
+    "endDateUnix": 1567252800,
+    "affiliateText": null,
+    "twitter_followers": 420,
+    "twitter": "@ngdeconf",
+    "city": "Berlin"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "9zqq0/0Jynkz0d49GyaRYB01U1o=",
+    "cfpStartDateUnix": 0,
+    "id": 7961,
+    "country": "Australia",
+    "tweeted_at": "2018-11-28T09:01:46.841Z",
+    "cfpStartDate": null,
+    "longitude": 144.9631608,
+    "startDate": "2019-09-06",
+    "objectID": "9zqq0/0Jynkz0d49GyaRYB01U1o=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "ComponentsConf",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-09-06",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-28T09:01:46.829Z",
+    "endDate": "2019-09-06",
+    "latitude": -37.8142176,
+    "name": "ComponentsConf",
+    "updated_at": "2018-12-15T19:51:52.500Z",
+    "cfpEndDate": "2019-04-06",
+    "cfpUrl": "https://goo.gl/forms/wSXvPfR11VsdD3Ao2",
+    "url": "https://www.componentsconf.com.au",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1554552000,
+    "emails": null,
+    "startDateUnix": 1567771200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": -37.8142176,
+      "lng": 144.9631608
+    },
+    "endDateUnix": 1567771200,
+    "affiliateText": null,
+    "twitter_followers": 59,
+    "twitter": "@componentsConf",
+    "city": "Melbourne"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "M5qpP9AYAxQRCRbbkjUqpehKUXI=",
+    "cfpStartDateUnix": 0,
+    "id": 8268,
+    "country": "Germany",
+    "tweeted_at": "2019-01-09T13:22:22.190Z",
+    "cfpStartDate": null,
+    "longitude": 7.8494005,
+    "startDate": "2019-09-09",
+    "objectID": "M5qpP9AYAxQRCRbbkjUqpehKUXI=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        },
+        {
+          "value": "css",
+          "matchedWords": [],
+          "matchLevel": "none"
+        },
+        {
+          "value": "ux",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Smashing Conference",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-09-09",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-01-09T13:22:22.178Z",
+    "endDate": "2019-09-10",
+    "latitude": 47.9960901,
+    "twitter": "@smashingconf",
+    "updated_at": "2019-02-10T13:10:10.311Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://smashingconf.com/freiburg-2019",
+    "topics": [
+      "javascript",
+      "css",
+      "ux"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1568030400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 47.9960901,
+      "lng": 7.8494005
+    },
+    "endDateUnix": 1568116800,
+    "affiliateText": null,
+    "twitter_followers": 8785,
+    "name": "Smashing Conference",
+    "city": "Freiburg"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "xSwU/cy6O7cEX3c0kFTwAP83T7Q=",
+    "cfpStartDateUnix": 0,
+    "id": 7921,
+    "country": "U.S.A.",
+    "tweeted_at": "2018-11-19T13:01:45.301Z",
+    "cfpStartDate": null,
+    "longitude": -75.9831098,
+    "startDate": "2019-09-15",
+    "objectID": "xSwU/cy6O7cEX3c0kFTwAP83T7Q=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Smashing Conference",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-09-15",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-19T13:01:45.296Z",
+    "endDate": "2019-10-16",
+    "latitude": 42.2132514,
+    "name": "Smashing Conference",
+    "updated_at": "2018-12-15T19:50:46.252Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://www.smashingconf.com/ny-2019/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1568548800,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 42.2132514,
+      "lng": -75.9831098
+    },
+    "endDateUnix": 1571227200,
+    "affiliateText": null,
+    "twitter_followers": 8728,
+    "twitter": "@smashingconf",
+    "city": "New York"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "quWb/rjFsIfL+mh7bwhNbcJvjjs=",
+    "cfpStartDateUnix": 0,
+    "id": 8269,
+    "country": "U.S.A.",
+    "tweeted_at": "2019-01-09T13:22:24.938Z",
+    "cfpStartDate": null,
+    "longitude": -73.9871558,
+    "startDate": "2019-09-15",
+    "objectID": "quWb/rjFsIfL+mh7bwhNbcJvjjs=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Smashing Conference",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-09-15",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-01-09T13:22:24.921Z",
+    "endDate": "2019-10-16",
+    "latitude": 40.7308619,
+    "name": "Smashing Conference",
+    "updated_at": "2019-01-09T13:22:26.329Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://smashingconf.com/ny-2019/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1568548800,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 40.7308619,
+      "lng": -73.9871558
+    },
+    "endDateUnix": 1571227200,
+    "affiliateText": null,
+    "twitter_followers": 8785,
+    "twitter": "@smashingconf",
+    "city": "New York"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "wBS7eEBd/mSUcE5cdYdwR0km8S0=",
+    "cfpStartDateUnix": 0,
+    "id": 8513,
+    "country": "India",
+    "tweeted_at": null,
+    "cfpStartDate": null,
+    "longitude": 74.0855134,
+    "startDate": "2019-09-26",
+    "objectID": "wBS7eEBd/mSUcE5cdYdwR0km8S0=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "React India",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-09-26",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-02-08T15:20:22.063Z",
+    "endDate": "2019-09-28",
+    "latitude": 15.3004543,
+    "name": "React India",
+    "updated_at": "2019-02-08T15:20:23.138Z",
+    "cfpEndDate": "2019-05-25",
+    "cfpUrl": "https://docs.google.com/forms/d/1-OLrzL6CEx075V7aX6uUaWH1clr29qnf6OQMmYT2VsU/viewform?edit_requested=true",
+    "url": "https://www.reactindia.io/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1558785600,
+    "emails": null,
+    "startDateUnix": 1569499200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 15.3004543,
+      "lng": 74.0855134
+    },
+    "endDateUnix": 1569672000,
+    "affiliateText": null,
+    "twitter_followers": 990,
+    "twitter": "@react_india",
+    "city": "Goa"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "GWlRX1lRmCloauTCmbFS647h5l0=",
+    "cfpStartDateUnix": 0,
+    "id": 7895,
+    "country": "Hungary",
+    "tweeted_at": "2018-11-09T15:23:50.346Z",
+    "cfpStartDate": null,
+    "longitude": 19.0404707,
+    "startDate": "2019-09-26",
+    "objectID": "GWlRX1lRmCloauTCmbFS647h5l0=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "JSConf Budapest",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-09-26",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-11-09T15:23:50.341Z",
+    "endDate": "2019-09-27",
+    "latitude": 47.4983815,
+    "name": "JSConf Budapest",
+    "updated_at": "2018-12-15T19:51:32.369Z",
+    "cfpEndDate": "2019-02-28",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeox5OTuhXmrLXhWtLAcj4AFfpKj9kiv0B17A1rhEU0Qy3xrQ/viewform",
+    "url": "https://jsconfbp.com/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 1551355200,
+    "emails": null,
+    "startDateUnix": 1569499200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 47.4983815,
+      "lng": 19.0404707
+    },
+    "endDateUnix": 1569585600,
+    "affiliateText": null,
+    "twitter_followers": 1597,
+    "twitter": "@jsconfbp",
+    "city": "Budapest"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "3LBkpRwUaksjbnBLAacI4OOYD4A=",
+    "cfpStartDateUnix": 0,
+    "id": 8073,
+    "country": "Sweden",
+    "tweeted_at": "2018-12-23T19:11:05.131Z",
+    "cfpStartDate": null,
+    "longitude": 18.0710935,
+    "startDate": "2019-10-10",
+    "objectID": "3LBkpRwUaksjbnBLAacI4OOYD4A=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Nordic.js",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-10-10",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-12-23T19:11:05.120Z",
+    "endDate": "2019-10-11",
+    "latitude": 59.3251172,
+    "name": "Nordic.js",
+    "updated_at": "2018-12-23T19:11:06.321Z",
+    "cfpEndDate": null,
+    "cfpUrl": "http://nordicjs.com/call-for-speakers",
+    "url": "http://nordicjs.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1570708800,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 59.3251172,
+      "lng": 18.0710935
+    },
+    "endDateUnix": 1570795200,
+    "affiliateText": null,
+    "twitter_followers": 3559,
+    "twitter": "@nordicjs",
+    "city": "Stockholm"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "+9FggjxKDRDgtuyCXNXJuw73vLY=",
+    "cfpStartDateUnix": 0,
+    "id": 8480,
+    "country": "U.S.A.",
+    "tweeted_at": null,
+    "cfpStartDate": null,
+    "longitude": -73.9871558,
+    "startDate": "2019-10-15",
+    "objectID": "+9FggjxKDRDgtuyCXNXJuw73vLY=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Smashing Conference",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-10-15",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-02-01T20:08:32.495Z",
+    "endDate": "2019-10-16",
+    "latitude": 40.7308619,
+    "name": "Smashing Conference",
+    "updated_at": "2019-02-01T20:08:33.412Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://smashingconf.com/ny-2019/",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1571140800,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 40.7308619,
+      "lng": -73.9871558
+    },
+    "endDateUnix": 1571227200,
+    "affiliateText": null,
+    "twitter_followers": 8845,
+    "twitter": "@smashingconf",
+    "city": "New York"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "Cb7V+RxK6HyCXsUZydQ9Awp7H9A=",
+    "cfpStartDateUnix": 0,
+    "id": 8431,
+    "country": "U.K.",
+    "tweeted_at": null,
+    "cfpStartDate": null,
+    "longitude": -0.1276474,
+    "startDate": "2019-11-13",
+    "objectID": "Cb7V+RxK6HyCXsUZydQ9Awp7H9A=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "Big Data LDN",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-11-13",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-01-24T14:09:21.459Z",
+    "endDate": "2019-11-14",
+    "latitude": 51.5073219,
+    "name": "Big Data LDN",
+    "updated_at": "2019-01-24T14:09:22.289Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://bigdataldn.com",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1573646400,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 51.5073219,
+      "lng": -0.1276474
+    },
+    "endDateUnix": 1573732800,
+    "affiliateText": null,
+    "twitter_followers": 2299,
+    "twitter": "@bigdata_ldn",
+    "city": "London"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "2767B2OEmEuln+7X2jkyPJ/IuOw=",
+    "cfpStartDateUnix": 0,
+    "id": 8353,
+    "country": "France",
+    "tweeted_at": null,
+    "cfpStartDate": null,
+    "longitude": 2.3514992,
+    "startDate": "2019-12-05",
+    "objectID": "2767B2OEmEuln+7X2jkyPJ/IuOw=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "dotJS",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-12-05",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2019-01-11T17:09:26.411Z",
+    "endDate": "2019-12-06",
+    "latitude": 48.8566101,
+    "name": "dotJS",
+    "updated_at": "2019-01-11T17:09:27.320Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://2019.dotjs.io",
+    "topics": [
+      "javascript"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1575547200,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 48.8566101,
+      "lng": 2.3514992
+    },
+    "endDateUnix": 1575633600,
+    "affiliateText": null,
+    "twitter_followers": 5738,
+    "twitter": "@dotJS",
+    "city": "Paris"
+  },
+  {
+    "hasDiscount": false,
+    "uuid": "isBQRrjGWU23MQaEH0pw4IsGI2g=",
+    "cfpStartDateUnix": 0,
+    "id": 8019,
+    "country": "Latvia",
+    "tweeted_at": "2018-12-18T09:09:52.866Z",
+    "cfpStartDate": null,
+    "longitude": 24.1051846,
+    "startDate": "2019-12-06",
+    "objectID": "isBQRrjGWU23MQaEH0pw4IsGI2g=",
+    "_highlightResult": {
+      "topics": [
+        {
+          "value": "javascript",
+          "matchedWords": [],
+          "matchLevel": "none"
+        },
+        {
+          "value": "general",
+          "matchedWords": [],
+          "matchLevel": "none"
+        }
+      ],
+      "name": {
+        "value": "DevTernity",
+        "matchedWords": [],
+        "matchLevel": "none"
+      },
+      "startDate": {
+        "value": "2019-12-06",
+        "matchedWords": [],
+        "matchLevel": "none"
+      }
+    },
+    "created_at": "2018-12-18T09:09:52.857Z",
+    "endDate": "2019-12-07",
+    "latitude": 56.9493977,
+    "name": "DevTernity",
+    "updated_at": "2018-12-18T09:09:54.085Z",
+    "cfpEndDate": null,
+    "cfpUrl": null,
+    "url": "https://devternity.com",
+    "topics": [
+      "javascript",
+      "general"
+    ],
+    "cfpEndDateUnix": 0,
+    "emails": null,
+    "startDateUnix": 1575633600,
+    "affiliateUrl": null,
+    "_geoloc": {
+      "lat": 56.9493977,
+      "lng": 24.1051846
+    },
+    "endDateUnix": 1575720000,
+    "affiliateText": null,
+    "twitter_followers": 646,
+    "twitter": "@devternity",
+    "city": "Riga"
+  }
+]
