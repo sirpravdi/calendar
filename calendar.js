@@ -103,16 +103,12 @@ function notify (info) {
 
     if (Notification && Notification.permission === 'default') {
         Notification.requestPermission(function (permission) {
-           if (!('permission' in Notification)) {
+           if(!('permission' in Notification)) {
              Notification.permission = permission;
            }
         });
       }
-
-    console.log(info);
-    console.log(info.dataset.date);
-    console.log(info.dataset.period);
-
+      
     let dateParts = info.dataset.date.split('-');
     let date = new Date(dateParts[0], dateParts[1] - 1, dateParts[2]);
 
@@ -121,7 +117,8 @@ function notify (info) {
     var dts = Math.floor(date);
 
     var options = {
-        body: 'Dont forget about ' + info.dataset.name + ' conference in ' + info.dataset.period + ' days'
+        body: 'Dont forget about ' + info.dataset.name + ' conference in ' + info.dataset.period + ' days',
+        timestamp: dts
     }
 
     let n = new Notification('Reminder', options);
