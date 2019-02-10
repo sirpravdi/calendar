@@ -48,9 +48,15 @@ function fillMonthList(conf, months){
         city = conf.city,
         name = conf.name,
         url = conf.url,
-        month = confDate.split('-')[1];
+        month = confDate.split('-')[1],
+        motnthInArray = parseInt(month) - 1;
 
-        console.log(month);
+        list = document.querySelector('#' + month[motnthInArray]);
+
+        console.log(list);
+        
+
+
 
 };
 
