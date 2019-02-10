@@ -22,9 +22,7 @@ function createList(schedule) {
 
     months.forEach(item => createMonthItem(item, main));
 
-    console.log(schedule);
-
-    console.log(Object.values(schedule));
+    schedule.forEach(item => createList(item, months));
 
 };
 
